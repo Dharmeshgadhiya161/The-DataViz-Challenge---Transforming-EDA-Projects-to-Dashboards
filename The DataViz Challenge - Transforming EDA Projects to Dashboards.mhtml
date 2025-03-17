@@ -1,0 +1,2442 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://almabetter.notion.site/The-DataViz-Challenge-Transforming-EDA-Projects-to-Dashboards-2282628ddbde4bc58d453ceb30b4580f
+Subject: The DataViz Challenge - Transforming EDA Projects to Dashboards
+Date: Wed, 29 Jan 2025 12:25:50 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--Hn5MrnHNiylsz9lYg2Kp2Mz4SO6l99clHSO0eoxMZ9----"
+
+
+------MultipartBoundary--Hn5MrnHNiylsz9lYg2Kp2Mz4SO6l99clHSO0eoxMZ9----
+Content-Type: text/html
+Content-ID: <frame-CF4BC7F172A9E6C4D81B02CD010ED565@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://almabetter.notion.site/The-DataViz-Challenge-Transforming-EDA-Projects-to-Dashboards-2282628ddbde4bc58d453ceb30b4580f
+
+<!DOCTYPE html><html class=3D"notion-html" style=3D"--full-viewport-height:=
+ 551px;" lang=3D"en"><head lang=3D"en"><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-73d18057-215b-4d63-9865-b4aa1740d312@mhtml.blink" /><l=
+ink rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-4eb9a25f-a2a5-4068=
+-9950-e86361f84aa3@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css=
+" href=3D"cid:css-679c3b13-27c3-4d4b-aa48-fe90fa2ec152@mhtml.blink" /><meta=
+ name=3D"viewport" content=3D"width=3Ddevice-width,height=3Ddevice-height,i=
+nitial-scale=3D1,maximum-scale=3D1,user-scalable=3Dno,viewport-fit=3Dcover"=
+><title>The DataViz Challenge - Transforming EDA Projects to Dashboards</ti=
+tle><meta name=3D"description" content=3D"A new tool that blends your every=
+day work apps into one. It's the all-in-one workspace for you and your team=
+"><meta name=3D"twitter:card" content=3D"summary_large_image"><meta name=3D=
+"twitter:site" content=3D"@NotionHQ"><meta name=3D"twitter:title" content=
+=3D"Notion =E2=80=93 The all-in-one workspace for your notes, tasks, wikis,=
+ and databases."><meta name=3D"twitter:description" content=3D"A new tool t=
+hat blends your everyday work apps into one. It's the all-in-one workspace =
+for you and your team"><meta name=3D"twitter:url" content=3D"https://www.no=
+tion.so"><meta name=3D"twitter:image" content=3D"https://www.notion.so/imag=
+es/meta/default.png"><meta property=3D"og:site_name" content=3D"Notion"><me=
+ta property=3D"og:type" content=3D"website"><meta property=3D"og:url" conte=
+nt=3D"https://www.notion.so"><meta property=3D"og:title" content=3D"Notion =
+=E2=80=93 The all-in-one workspace for your notes, tasks, wikis, and databa=
+ses."><meta property=3D"og:description" content=3D"A new tool that blends y=
+our everyday work apps into one. It's the all-in-one workspace for you and =
+your team"><meta property=3D"og:image" content=3D"https://www.notion.so/ima=
+ges/meta/default.png"><meta property=3D"og:locale" content=3D"en_US"><meta =
+name=3D"mobile-web-app-capable" content=3D"yes"><meta property=3D"apple-itu=
+nes-app" content=3D"app-id=3D1232780281"><link rel=3D"shortcut icon" type=
+=3D"image/x-icon" href=3D"https://almabetter.notion.site/images/favicon.ico=
+"><link rel=3D"apple-touch-icon" href=3D"https://almabetter.notion.site/ima=
+ges/logo-ios.png"><meta name=3D"format-detection" content=3D"telephone=3Dno=
+"><meta name=3D"msapplication-tap-highlight" content=3D"no"><link href=3D"h=
+ttps://almabetter.notion.site/print.e2ba4c31.css" rel=3D"stylesheet" media=
+=3D"print"><link href=3D"https://almabetter.notion.site/_assets/app-308edd0=
+243fe7549.css" rel=3D"stylesheet"></head><body class=3D"notion-body" data-n=
+ew-gr-c-s-check-loaded=3D"14.1218.0" data-gr-ext-installed=3D""><div id=3D"=
+notion-app"><div class=3D"notion-app-inner notion-light-theme z-indexes-rel=
+ative" style=3D"color: rgb(55, 53, 47); fill: currentcolor; line-height: 1.=
+5; font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, &quot;Seg=
+oe UI Variable Display&quot;, &quot;Segoe UI&quot;, Helvetica, &quot;Apple =
+Color Emoji&quot;, Arial, sans-serif, &quot;Segoe UI Emoji&quot;, &quot;Seg=
+oe UI Symbol&quot;; -webkit-font-smoothing: auto; background-color: white; =
+transition: height 0.1s;"><div style=3D"height: 100%;"><div class=3D"notion=
+-cursor-listener" style=3D"width: 100vw; height: 100%; position: relative; =
+display: flex; flex: 1 1 0%; background: white; cursor: text;"><div class=
+=3D"" style=3D"order: 3; display: flex; flex-direction: column; width: 100%=
+; overflow: hidden; isolation: auto; background: transparent;"><header styl=
+e=3D"background: white; max-width: 100vw; z-index: 100; user-select: none;"=
+><div class=3D"notion-topbar" style=3D"width: calc(100% + 0px); max-width: =
+100vw; height: 44px; opacity: 1; transition: opacity 700ms, color 700ms; po=
+sition: relative; left: 0px;"><div style=3D"display: flex; justify-content:=
+ space-between; align-items: center; overflow: hidden; height: 44px; paddin=
+g-left: 12px; padding-right: 10px;"><div class=3D"notranslate shadow-cursor=
+-breadcrumb" style=3D"display: flex; align-items: center; line-height: 1.2;=
+ font-size: 14px; height: 100%; flex-grow: 0; margin-right: 8px; min-width:=
+ 0px;"><div aria-disabled=3D"true" role=3D"button" tabindex=3D"-1" style=3D=
+"user-select: none; transition: background 20ms ease-in; cursor: default; d=
+isplay: inline-flex; align-items: center; flex-shrink: 1; white-space: nowr=
+ap; height: 24px; border-radius: 6px; font-size: 14px; line-height: 1.2; mi=
+n-width: 0px; padding-left: 6px; padding-right: 6px; color: rgb(55, 53, 47)=
+;"><div data-popup-origin=3D"true" style=3D"display: contents;"><span class=
+=3D"notranslate" style=3D"white-space: nowrap; overflow: hidden; text-overf=
+low: ellipsis; max-width: 240px;">The DataViz Challenge - Transforming EDA =
+Projects to Dashboards</span></div></div></div><div style=3D"flex-grow: 1; =
+flex-shrink: 1;"></div><div style=3D"display: flex; justify-content: space-=
+between; padding-left: 10px;"><div data-popup-origin=3D"true" style=3D"disp=
+lay: contents;"><div aria-disabled=3D"true" role=3D"button" tabindex=3D"-1"=
+ class=3D"notion-close-sidebar" aria-label=3D"Close panel" style=3D"user-se=
+lect: none; transition-behavior: normal; transition-duration: 200ms; transi=
+tion-timing-function: ease; transition-property: opacity; cursor: default; =
+opacity: 0; display: inline-flex; align-items: center; justify-content: cen=
+ter; flex-shrink: 0; border-radius: 6px; height: 24px; width: 24px; padding=
+: 0px; position: relative; margin-left: 10px; fill: rgba(55, 53, 47, 0.45);=
+"><svg role=3D"graphics-symbol" viewBox=3D"0 0 16 16" class=3D"doubleChevro=
+nRight" style=3D"width: 16px; height: 16px; display: block; fill: inherit; =
+flex-shrink: 0;"><path d=3D"M2.25781 14.1211C2.47656 14.1211 2.66797 14.039=
+1 2.81836 13.8887L8.14355 8.67969C8.32812 8.49512 8.41699 8.29688 8.41699 8=
+.06445C8.41699 7.8252 8.32812 7.62012 8.14355 7.44922L2.81836 2.24023C2.667=
+97 2.08984 2.4834 2.00781 2.25781 2.00781C1.81348 2.00781 1.46484 2.35645 1=
+.46484 2.80078C1.46484 3.0127 1.55371 3.21777 1.7041 3.375L6.50977 8.05762L=
+1.7041 12.7539C1.55371 12.9043 1.46484 13.1094 1.46484 13.3281C1.46484 13.7=
+725 1.81348 14.1211 2.25781 14.1211ZM8.36914 14.1211C8.58789 14.1211 8.7724=
+6 14.0391 8.92285 13.8887L14.2549 8.67969C14.4395 8.49512 14.5283 8.29688 1=
+4.5283 8.06445C14.5283 7.8252 14.4326 7.62012 14.2549 7.44922L8.92285 2.240=
+23C8.77246 2.08984 8.58789 2.00781 8.36914 2.00781C7.9248 2.00781 7.56934 2=
+.35645 7.56934 2.80078C7.56934 3.0127 7.66504 3.21777 7.81543 3.375L12.6211=
+ 8.05762L7.81543 12.7539C7.66504 12.9043 7.56934 13.1094 7.56934 13.3281C7.=
+56934 13.7725 7.9248 14.1211 8.36914 14.1211Z"></path></svg></div></div><di=
+v style=3D"display: flex;"><div role=3D"button" tabindex=3D"0" style=3D"use=
+r-select: none; transition: background 20ms ease-in; cursor: pointer; displ=
+ay: inline-flex; align-items: center; flex-shrink: 0; white-space: nowrap; =
+height: 28px; border-radius: 6px; font-size: 14px; line-height: 1.2; min-wi=
+dth: 0px; padding-left: 8px; padding-right: 8px; color: rgb(55, 53, 47);"><=
+svg role=3D"graphics-symbol" viewBox=3D"0 0 16 16" class=3D"search" style=
+=3D"width: 14px; height: 14px; display: block; fill: inherit; flex-shrink: =
+0;"><path d=3D"M.281 6.438c0-.875.164-1.696.492-2.461a6.484 6.484 0 011.375=
+-2.032A6.237 6.237 0 016.64.078 6.2 6.2 0 019.11.57c.77.328 1.447.787 2.03 =
+1.375a6.374 6.374 0 011.368 2.032c.333.765.5 1.586.5 2.46 0 .688-.107 1.342=
+-.32 1.961a6.28 6.28 0 01-.868 1.696l3.563 3.578c.11.104.19.226.242.367.057=
+.14.086.29.086.445 0 .22-.05.417-.149.594a1.122 1.122 0 01-1 .57c-.156 0-.3=
+07-.028-.453-.086a1.058 1.058 0 01-.382-.25l-3.586-3.585c-.5.333-1.047.596-=
+1.641.789a6.089 6.089 0 01-1.86.28 6.237 6.237 0 01-2.468-.491 6.4 6.4 0 01=
+-2.024-1.367A6.509 6.509 0 01.773 8.913a6.256 6.256 0 01-.492-2.476zm1.664 =
+0c0 .65.12 1.26.36 1.828a4.775 4.775 0 001.015 1.5c.433.427.933.763 1.5 1.0=
+07a4.548 4.548 0 001.82.368c.652 0 1.261-.123 1.829-.368a4.747 4.747 0 002.=
+508-2.507 4.567 4.567 0 00.367-1.829c0-.645-.123-1.252-.367-1.82a4.776 4.77=
+6 0 00-1.016-1.5A4.578 4.578 0 008.469 2.11a4.567 4.567 0 00-1.828-.367c-.6=
+46 0-1.253.123-1.82.367a4.667 4.667 0 00-1.5 1.008c-.433.432-.772.932-1.016=
+ 1.5a4.633 4.633 0 00-.36 1.82z"></path></svg></div><div data-popup-origin=
+=3D"true" style=3D"display: contents;"><div role=3D"button" tabindex=3D"0" =
+aria-label=3D"More actions" style=3D"user-select: none; transition: backgro=
+und 20ms ease-in; cursor: pointer; display: flex; align-items: center; just=
+ify-content: center; width: 32px; height: 28px; border-radius: 4px;"><svg r=
+ole=3D"graphics-symbol" viewBox=3D"0 0 16 16" class=3D"ellipsis" style=3D"w=
+idth: 18px; height: 18px; display: block; fill: inherit; flex-shrink: 0;"><=
+path d=3D"M2.887 9.014c.273 0 .52-.064.738-.192.219-.132.394-.307.526-.526.=
+133-.219.199-.46.199-.725 0-.405-.142-.747-.424-1.025a1.41 1.41 0 00-1.04-.=
+417c-.264 0-.505.066-.724.198a1.412 1.412 0 00-.718 1.244c0 .265.064.506.19=
+2.725.132.219.307.394.526.526.219.128.46.192.725.192zm5.113 0a1.412 1.412 0=
+ 001.244-.718c.132-.219.198-.46.198-.725 0-.405-.14-.747-.423-1.025A1.386 1=
+.386 0 008 6.129c-.264 0-.506.066-.725.198a1.412 1.412 0 00-.718 1.244c0 .2=
+65.064.506.192.725.132.219.308.394.526.526.22.128.46.192.725.192zm5.106 0c.=
+265 0 .506-.064.725-.192.219-.132.394-.307.526-.526.133-.219.199-.46.199-.7=
+25 0-.405-.142-.747-.424-1.025a1.394 1.394 0 00-1.026-.417 1.474 1.474 0 00=
+-1.265.718c-.127.218-.19.46-.19.724 0 .265.063.506.19.725.133.219.308.394.5=
+27.526.223.128.47.192.738.192z"></path></svg></div></div><div role=3D"butto=
+n" tabindex=3D"0" style=3D"user-select: none; transition: background 20ms e=
+ase-in; cursor: pointer; display: inline-flex; align-items: center; justify=
+-content: center; white-space: nowrap; border-radius: 6px; height: 32px; pa=
+dding: 0px 10px; font-size: 14px; line-height: 1.2; border: 1px solid rgba(=
+55, 53, 47, 0.16); margin-left: 8px;">Made with<svg role=3D"graphics-symbol=
+" viewBox=3D"0 0 120 126" class=3D"notionLogo" style=3D"width: 14px; height=
+: 14px; display: block; fill: inherit; flex-shrink: 0; margin-left: 6px;"><=
+path d=3D"M 20.6927 21.9315C 24.5836 25.0924 26.0432 24.8512 33.3492 24.363=
+8L 102.228 20.2279C 103.689 20.2279 102.474 18.7705 101.987 18.5283L 90.547=
+7 10.2586C 88.3558 8.55699 85.4356 6.60818 79.8387 7.09563L 13.1433 11.9602=
+C 10.711 12.2014 10.2251 13.4175 11.1939 14.3924L 20.6927 21.9315ZM 24.8281=
+ 37.9835L 24.8281 110.456C 24.8281 114.351 26.7745 115.808 31.1553 115.567L=
+ 106.853 111.187C 111.236 110.946 111.724 108.267 111.724 105.103L 111.724 =
+33.1169C 111.724 29.958 110.509 28.2544 107.826 28.4976L 28.721 33.1169C 25=
+.8018 33.3622 24.8281 34.8225 24.8281 37.9835ZM 99.5567 41.8711C 100.042 44=
+.0622 99.5567 46.2512 97.3618 46.4974L 93.7143 47.2241L 93.7143 100.728C 90=
+.5477 102.43 87.6275 103.403 85.1942 103.403C 81.2983 103.403 80.3226 102.1=
+86 77.4044 98.54L 53.5471 61.087L 53.5471 97.3239L 61.0964 99.0275C 61.0964=
+ 99.0275 61.0964 103.403 55.0057 103.403L 38.2148 104.377C 37.727 103.403 3=
+8.2148 100.973 39.9179 100.486L 44.2996 99.2717L 44.2996 51.36L 38.2158 50.=
+8725C 37.728 48.6815 38.9431 45.5225 42.3532 45.2773L 60.3661 44.0631L 85.1=
+942 82.0036L 85.1942 48.4402L 78.864 47.7136C 78.3781 45.0351 80.3226 43.09=
+02 82.7569 42.849L 99.5567 41.8711ZM 7.5434 5.39404L 76.9175 0.285276C 85.4=
+366 -0.445402 87.6285 0.0440428 92.983 3.93368L 115.128 19.4982C 118.782 22=
+.1747 120 22.9034 120 25.8211L 120 111.187C 120 116.537 118.051 119.701 111=
+.237 120.185L 30.6734 125.05C 25.5584 125.294 23.124 124.565 20.4453 121.15=
+8L 4.13735 99.9994C 1.21516 96.1048 0 93.191 0 89.7819L 0 13.903C 0 9.5279 =
+1.94945 5.8785 7.5434 5.39404Z"></path></svg></div></div></div></div></div>=
+<div style=3D"width: calc(100% + 0px); user-select: none;"></div></header><=
+main class=3D"notion-frame" style=3D"flex-grow: 0; flex-shrink: 1; display:=
+ flex; flex-direction: column; background: white; z-index: 1; height: calc(=
+-44px + 100vh); max-height: 100%; position: relative; width: 1280px; transf=
+orm: translateX(0px); transition-duration: 200ms; transition-timing-functio=
+n: ease; transition-property: width, transform;"><div style=3D"display: con=
+tents;"><div class=3D"notion-scroller vertical" style=3D"z-index: 1; displa=
+y: flex; flex-direction: column; flex-grow: 1; position: relative; align-it=
+ems: center; padding-bottom: 0px; margin-right: 0px; margin-bottom: 0px; ov=
+erflow: hidden auto;"><div class=3D"sticky-portal-target" data-sticky-stack=
+-name=3D"default" style=3D"position: sticky; z-index: 85; width: 100%; top:=
+ 0px; left: 0px; height: 0px; flex: 0 1 0%;"></div><div style=3D"position: =
+absolute; top: 0px; left: 0px; z-index: 99;"><div class=3D"notion-selectabl=
+e-hover-menu-item"></div></div><div role=3D"textbox" aria-disabled=3D"true"=
+ aria-label=3D"Start typing to edit text" aria-multiline=3D"true" class=3D"=
+whenContentEditable" data-content-editable-root=3D"true" style=3D"caret-col=
+or: rgb(55, 53, 47); width: 100%; display: flex; flex-direction: column; po=
+sition: relative; align-items: center; flex-grow: 1; --whenContentEditable-=
+-WebkitUserModify: read-write-plaintext-only;"><span data-content-editable-=
+root-tiny-selection-trap=3D"true" style=3D"height: 1px; width: 1px; caret-c=
+olor: transparent; margin-top: -1px;"></span><div class=3D"layout" style=3D=
+"padding-bottom: 30vh; transform: translateX(0px); transition-duration: 200=
+ms; transition-timing-function: ease; transition-property: transform;"><div=
+ contenteditable=3D"false" class=3D"pseudoSelection" data-content-editable-=
+void=3D"true" style=3D"user-select: none; --pseudoSelection--background: tr=
+ansparent; display: contents;"></div><div class=3D"layout-full" style=3D"is=
+olation: isolate;"><div contenteditable=3D"false" class=3D"pseudoSelection"=
+ data-content-editable-void=3D"true" style=3D"user-select: none; --pseudoSe=
+lection--background: transparent; width: 100%; display: flex; flex-directio=
+n: column; align-items: center; flex-shrink: 0; flex-grow: 0; z-index: 2; t=
+ransform: translateX(0px); transition-duration: 200ms; transition-timing-fu=
+nction: ease; transition-property: transform;"></div></div><div class=3D"la=
+yout-content" style=3D"margin-left: -4px;"><div style=3D"width: 100%; displ=
+ay: flex; flex-direction: column; align-items: center; flex-shrink: 0; flex=
+-grow: 0;"><div style=3D"max-width: 100%; padding-left: calc(0px + env(safe=
+-area-inset-left)); width: 100%;"><div contenteditable=3D"false" class=3D"p=
+seudoSelection" data-content-editable-void=3D"true" style=3D"user-select: n=
+one; --pseudoSelection--background: transparent; pointer-events: none;"><di=
+v style=3D"display: flow-root; pointer-events: auto;"></div><div><div class=
+=3D"notion-page-controls" style=3D"display: flex; justify-content: flex-sta=
+rt; flex-wrap: wrap; padding-top: 80px; padding-bottom: 4px; margin-left: -=
+1px; color: rgba(55, 53, 47, 0.5); font-family: ui-sans-serif, -apple-syste=
+m, BlinkMacSystemFont, &quot;Segoe UI Variable Display&quot;, &quot;Segoe U=
+I&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, sans-serif, &quot=
+;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; pointer-events: auto;">=
+</div></div></div><div style=3D"padding-right: calc(0px + env(safe-area-ins=
+et-right));"><div><div data-block-id=3D"2282628d-dbde-4bc5-8d45-3ceb30b4580=
+f" class=3D"notion-selectable notion-page-block" style=3D"color: rgb(55, 53=
+, 47); font-weight: 700; line-height: 1.2; font-size: 40px; font-family: ui=
+-sans-serif, -apple-system, BlinkMacSystemFont, &quot;Segoe UI Variable Dis=
+play&quot;, &quot;Segoe UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;,=
+ Arial, sans-serif, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;=
+; cursor: text; display: flex; align-items: center;"><h1 spellcheck=3D"true=
+" placeholder=3D"New page" contenteditable=3D"false" data-content-editable-=
+leaf=3D"true" style=3D"max-width: 100%; width: 100%; white-space: pre-wrap;=
+ word-break: break-word; caret-color: rgb(55, 53, 47); padding-top: 3px; pa=
+dding-left: 2px; padding-right: 2px; font-size: 1em; font-weight: inherit; =
+margin: 0px;">The DataViz Challenge - <span style=3D"text-decoration:none;c=
+olor:inherit" data-token-index=3D"1" class=3D"notion-enable-hover">Transfor=
+ming EDA Projects to Dashboards</span></h1></div><div style=3D"margin-left:=
+ 4px;"></div></div></div></div></div></div><div class=3D"layout-content" st=
+yle=3D"margin-left: -2px; margin-top: 8px;"><div class=3D"notion-page-conte=
+nt" style=3D"flex-shrink: 0; flex-grow: 1; max-width: 100%; display: flex; =
+align-items: flex-start; flex-direction: column; font-size: 16px; line-heig=
+ht: 1.5; width: 100%; z-index: 4; padding: 8px 0px 0px;"><div data-block-id=
+=3D"97c8d498-82c7-4ecd-a3df-9a3c2ec9d492" class=3D"notion-selectable notion=
+-text-block start-of-content" style=3D"width: 100%; max-width: 1088px; marg=
+in-top: 2px; margin-bottom: 1px;"><div style=3D"color: inherit; fill: inher=
+it;"><div style=3D"display: flex;"><div spellcheck=3D"true" placeholder=3D"=
+ " contenteditable=3D"false" data-content-editable-leaf=3D"true" style=3D"m=
+ax-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word;=
+ caret-color: rgb(55, 53, 47); padding: 3px 2px; min-height: 1em; color: rg=
+b(55, 53, 47); -webkit-text-fill-color: rgba(55, 53, 47, 0.5);"></div><div =
+style=3D"position: relative; left: 0px;"></div></div></div></div><div data-=
+block-id=3D"18963822-a58d-4237-b4de-9209dc91f695" class=3D"notion-selectabl=
+e notion-text-block" style=3D"width: 100%; max-width: 1088px; margin-top: 1=
+px; margin-bottom: 1px;"><div style=3D"color: inherit; fill: inherit;"><div=
+ style=3D"display: flex;"><div spellcheck=3D"true" placeholder=3D" " conten=
+teditable=3D"false" data-content-editable-leaf=3D"true" style=3D"max-width:=
+ 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-co=
+lor: rgb(55, 53, 47); padding: 3px 2px;"><span style=3D"font-weight:600" da=
+ta-token-index=3D"0" class=3D"notion-enable-hover">Create Stunning Tableau =
+Desktop/Tableau Public/PowerBI Dashboard from the same dataset on which EDA=
+ was performed for the capstone project.</span></div><div style=3D"position=
+: relative; left: 0px;"></div></div></div></div><div data-block-id=3D"974da=
+498-35a2-435f-a095-02f4fb7ea596" class=3D"notion-selectable notion-text-blo=
+ck" style=3D"width: 100%; max-width: 1088px; margin-top: 1px; margin-bottom=
+: 1px;"><div style=3D"color: inherit; fill: inherit;"><div style=3D"display=
+: flex;"><div spellcheck=3D"true" placeholder=3D" " contenteditable=3D"fals=
+e" data-content-editable-leaf=3D"true" style=3D"max-width: 100%; width: 100=
+%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, =
+47); padding: 3px 2px;">Suppose, <span style=3D"font-weight:600" data-token=
+-index=3D"1" class=3D"notion-enable-hover">if someone performed EDA on Airb=
+nb operations</span> then the following steps need to be followed for build=
+ing an adequate dashboard through which one can analyse the performance of =
+the company to take necessary actions.</div><div style=3D"position: relativ=
+e; left: 0px;"></div></div></div></div><div data-block-id=3D"d0d3865d-b936-=
+4259-bffc-45c9b8274875" class=3D"notion-selectable notion-text-block" style=
+=3D"width: 100%; max-width: 1088px; margin-top: 1px; margin-bottom: 1px;"><=
+div style=3D"color: inherit; fill: inherit;"><div style=3D"display: flex;">=
+<div spellcheck=3D"true" placeholder=3D" " contenteditable=3D"false" data-c=
+ontent-editable-leaf=3D"true" style=3D"max-width: 100%; width: 100%; white-=
+space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padd=
+ing: 3px 2px;"><span style=3D"font-weight:600" data-token-index=3D"0" class=
+=3D"notion-enable-hover">Problem Statement:</span></div><div style=3D"posit=
+ion: relative; left: 0px;"></div></div></div></div><div data-block-id=3D"ae=
+098ffe-5167-46e1-b4d2-8e2ad321a566" class=3D"notion-selectable notion-text-=
+block" style=3D"width: 100%; max-width: 1088px; margin-top: 1px; margin-bot=
+tom: 1px;"><div style=3D"color: inherit; fill: inherit;"><div style=3D"disp=
+lay: flex;"><div spellcheck=3D"true" placeholder=3D" " contenteditable=3D"f=
+alse" data-content-editable-leaf=3D"true" style=3D"max-width: 100%; width: =
+100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 5=
+3, 47); padding: 3px 2px;">In the context of Airbnb operations, how can the=
+ utilisation of Tableau Desktop/Tableau Public/PowerBI facilitate a compreh=
+ensive comparative examination between Chicago and New Orleans, two diverse=
+ urban environments?</div><div style=3D"position: relative; left: 0px;"></d=
+iv></div></div></div><div data-block-id=3D"25c41908-134a-4a2a-a5eb-a6cef1cc=
+0cfc" class=3D"notion-selectable notion-text-block" style=3D"width: 100%; m=
+ax-width: 1088px; margin-top: 1px; margin-bottom: 1px;"><div style=3D"color=
+: inherit; fill: inherit;"><div style=3D"display: flex;"><div spellcheck=3D=
+"true" placeholder=3D" " contenteditable=3D"false" data-content-editable-le=
+af=3D"true" style=3D"max-width: 100%; width: 100%; white-space: pre-wrap; w=
+ord-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px;">Thi=
+s inquiry seeks to leverage Tableau Desktop/Tableau Public/PowerBI's visual=
+ analytics capabilities to uncover and illustrate the shared attributes, di=
+sparities, and distinctive patterns inherent to Airbnb's presence in these =
+cities, thus elevating the depth and insightfulness of the study.</div><div=
+ style=3D"position: relative; left: 0px;"></div></div></div></div><div data=
+-block-id=3D"98218040-2cad-4d75-8735-73a4802122c2" class=3D"notion-selectab=
+le notion-text-block" style=3D"width: 100%; max-width: 1088px; margin-top: =
+1px; margin-bottom: 1px;"><div style=3D"color: inherit; fill: inherit;"><di=
+v style=3D"display: flex;"><div spellcheck=3D"true" placeholder=3D" " conte=
+nteditable=3D"false" data-content-editable-leaf=3D"true" style=3D"max-width=
+: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-c=
+olor: rgb(55, 53, 47); padding: 3px 2px;"><span style=3D"font-weight:600" d=
+ata-token-index=3D"0" class=3D"notion-enable-hover">Dataset Selection:</spa=
+n></div><div style=3D"position: relative; left: 0px;"></div></div></div></d=
+iv><div data-block-id=3D"561d22a0-1f9a-4311-aa76-76e0c15ab8d8" class=3D"not=
+ion-selectable notion-text-block" style=3D"width: 100%; max-width: 1088px; =
+margin-top: 1px; margin-bottom: 1px;"><div style=3D"color: inherit; fill: i=
+nherit;"><div style=3D"display: flex;"><div spellcheck=3D"true" placeholder=
+=3D" " contenteditable=3D"false" data-content-editable-leaf=3D"true" style=
+=3D"max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-=
+word; caret-color: rgb(55, 53, 47); padding: 3px 2px;">For this EDA project=
+, we have chosen the "Airbnb Listings Data" dataset from 2 major cities: Ch=
+icago and New Orleans. This dataset provides a comprehensive snapshot of va=
+rious attributes related to Airbnb listings, such as property type, neighbo=
+urhood, pricing, availability, and more. The dataset is ideal for conductin=
+g an in-depth exploration of the local Airbnb market and deriving actionabl=
+e insights.</div><div style=3D"position: relative; left: 0px;"></div></div>=
+</div></div><div data-block-id=3D"c768a8bb-b05e-4f23-a039-0cff5170849b" cla=
+ss=3D"notion-selectable notion-text-block" style=3D"width: 100%; max-width:=
+ 1088px; margin-top: 1px; margin-bottom: 1px;"><div style=3D"color: inherit=
+; fill: inherit;"><div style=3D"display: flex;"><div spellcheck=3D"true" pl=
+aceholder=3D" " contenteditable=3D"false" data-content-editable-leaf=3D"tru=
+e" style=3D"max-width: 100%; width: 100%; white-space: pre-wrap; word-break=
+: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px;"><span style=
+=3D"font-weight:600" data-token-index=3D"0" class=3D"notion-enable-hover">W=
+hy Airbnb:</span></div><div style=3D"position: relative; left: 0px;"></div>=
+</div></div></div><div data-block-id=3D"26f7e56e-b85e-400a-a423-9e83a3f726a=
+1" class=3D"notion-selectable notion-text-block" style=3D"width: 100%; max-=
+width: 1088px; margin-top: 1px; margin-bottom: 1px;"><div style=3D"color: i=
+nherit; fill: inherit;"><div style=3D"display: flex;"><div spellcheck=3D"tr=
+ue" placeholder=3D" " contenteditable=3D"false" data-content-editable-leaf=
+=3D"true" style=3D"max-width: 100%; width: 100%; white-space: pre-wrap; wor=
+d-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px;">Airbn=
+b, a prominent online platform, enables individuals to reserve accommodatio=
+ns spanning a spectrum from beds and rooms to apartments and entire homes a=
+cross global locales. This user-centric platform serves as a conduit for se=
+amless property rentals, negating the need for intricate intermediaries or =
+substantial capital outlays. Notably, users can secure lodgings at signific=
+antly competitive rates relative to traditional hotels. Distinctively, Airb=
+nb extends its reach to regions where convectional hotel presence might be =
+limited, offering an avenue for lodging acquisition in underserved locales.=
+ Moreover, the inclination towards immersive local experiences often steers=
+ individuals towards selecting accommodations embedded within native commun=
+ities, fostering a distinctive preference for authenticity and cultural eng=
+agement.</div><div style=3D"position: relative; left: 0px;"></div></div></d=
+iv></div><div data-block-id=3D"347909ad-c77d-4859-9590-5c8923611f1a" class=
+=3D"notion-selectable notion-text-block" style=3D"width: 100%; max-width: 1=
+088px; margin-top: 1px; margin-bottom: 1px;"><div style=3D"color: inherit; =
+fill: inherit;"><div style=3D"display: flex;"><div spellcheck=3D"true" plac=
+eholder=3D" " contenteditable=3D"false" data-content-editable-leaf=3D"true"=
+ style=3D"max-width: 100%; width: 100%; white-space: pre-wrap; word-break: =
+break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px;">Airbnb Statist=
+ics =E2=80=A2 Over 4 million listings worldwide =E2=80=A2 150 million users=
+ in 191 countries =E2=80=A2 Worldwide value is $32 billion =E2=80=A2 Global=
+ growth rate since 2009 - 153%</div><div style=3D"position: relative; left:=
+ 0px;"></div></div></div></div><div data-block-id=3D"f131e9e6-8e5e-4c1e-b9f=
+9-4f22a1b2fada" class=3D"notion-selectable notion-text-block" style=3D"widt=
+h: 100%; max-width: 1088px; margin-top: 1px; margin-bottom: 1px;"><div styl=
+e=3D"color: inherit; fill: inherit;"><div style=3D"display: flex;"><div spe=
+llcheck=3D"true" placeholder=3D" " contenteditable=3D"false" data-content-e=
+ditable-leaf=3D"true" style=3D"max-width: 100%; width: 100%; white-space: p=
+re-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px=
+ 2px;"><span style=3D"font-weight:600" data-token-index=3D"0" class=3D"noti=
+on-enable-hover">Dataset Details:</span></div><div style=3D"position: relat=
+ive; left: 0px;"></div></div></div></div><div data-block-id=3D"852ef482-5eb=
+e-4b3a-80f2-5cbe1c3c6af5" class=3D"notion-selectable notion-bulleted_list-b=
+lock notion-synthetic-group-block" style=3D"width: 100%; max-width: 1088px;=
+ margin-top: 1px; margin-bottom: 1px;"><div style=3D"display: flex; align-i=
+tems: flex-start; width: 100%; padding-left: 2px; color: inherit; fill: inh=
+erit;"><div contenteditable=3D"false" class=3D"notion-list-item-box-left ps=
+eudoSelection" data-content-editable-void=3D"true" data-text-edit-side=3D"s=
+tart" style=3D"user-select: none; --pseudoSelection--background: transparen=
+t; margin-right: 2px; width: 24px; display: flex; align-items: center; just=
+ify-content: center; flex-grow: 0; flex-shrink: 0; min-height: calc(1.5em +=
+ 6px);"><div class=3D"pseudoBefore" style=3D"font-size: 1.5em; line-height:=
+ 1; margin-bottom: 0px; --pseudoBefore--fontFamily: Arial; --pseudoBefore--=
+content: &quot;=E2=80=A2&quot;;"></div></div><div style=3D"flex: 1 1 0px; m=
+in-width: 1px; display: flex; flex-direction: column;"><div style=3D"displa=
+y: flex;"><div spellcheck=3D"true" placeholder=3D"List" contenteditable=3D"=
+false" data-content-editable-leaf=3D"true" style=3D"max-width: 100%; width:=
+ 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, =
+53, 47); padding: 3px 2px; text-align: start;">Dataset Name: Airbnb Listing=
+s Data</div><div style=3D"position: relative; left: 0px;"></div></div></div=
+></div></div><div data-block-id=3D"749e3da6-5828-4cef-b29b-4530533738e1" cl=
+ass=3D"notion-selectable notion-bulleted_list-block notion-synthetic-group-=
+block" style=3D"width: 100%; max-width: 1088px; margin-top: 1px; margin-bot=
+tom: 1px;"><div style=3D"display: flex; align-items: flex-start; width: 100=
+%; padding-left: 2px; color: inherit; fill: inherit;"><div contenteditable=
+=3D"false" class=3D"notion-list-item-box-left pseudoSelection" data-content=
+-editable-void=3D"true" data-text-edit-side=3D"start" style=3D"user-select:=
+ none; --pseudoSelection--background: transparent; margin-right: 2px; width=
+: 24px; display: flex; align-items: center; justify-content: center; flex-g=
+row: 0; flex-shrink: 0; min-height: calc(1.5em + 6px);"><div class=3D"pseud=
+oBefore" style=3D"font-size: 1.5em; line-height: 1; margin-bottom: 0px; --p=
+seudoBefore--fontFamily: Arial; --pseudoBefore--content: &quot;=E2=80=A2&qu=
+ot;;"></div></div><div style=3D"flex: 1 1 0px; min-width: 1px; display: fle=
+x; flex-direction: column;"><div style=3D"display: flex;"><div spellcheck=
+=3D"true" placeholder=3D"List" contenteditable=3D"false" data-content-edita=
+ble-leaf=3D"true" style=3D"max-width: 100%; width: 100%; white-space: pre-w=
+rap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px=
+; text-align: start;">Source: <a href=3D"http://insideairbnb.com/get-the-da=
+ta/" style=3D"cursor:pointer;color:inherit;word-wrap:break-word;text-decora=
+tion:inherit" class=3D"notion-link-token notion-focusable-token notion-enab=
+le-hover" rel=3D"noopener noreferrer" data-token-index=3D"1" tabindex=3D"0"=
+><span style=3D"border-bottom:0.05em solid;border-color:rgba(55,53,47,.4);o=
+pacity:0.7" class=3D"link-annotation-749e3da6-5828-4cef-b29b-4530533738e1--=
+488363824">Link to dataset</span></a></div><div style=3D"position: relative=
+; left: 0px;"></div></div></div></div></div><div data-block-id=3D"f11b5b07-=
+250f-4051-bf90-70162acf9a26" class=3D"notion-selectable notion-bulleted_lis=
+t-block notion-synthetic-group-block" style=3D"width: 100%; max-width: 1088=
+px; margin-top: 1px; margin-bottom: 1px;"><div style=3D"display: flex; alig=
+n-items: flex-start; width: 100%; padding-left: 2px; color: inherit; fill: =
+inherit;"><div contenteditable=3D"false" class=3D"notion-list-item-box-left=
+ pseudoSelection" data-content-editable-void=3D"true" data-text-edit-side=
+=3D"start" style=3D"user-select: none; --pseudoSelection--background: trans=
+parent; margin-right: 2px; width: 24px; display: flex; align-items: center;=
+ justify-content: center; flex-grow: 0; flex-shrink: 0; min-height: calc(1.=
+5em + 6px);"><div class=3D"pseudoBefore" style=3D"font-size: 1.5em; line-he=
+ight: 1; margin-bottom: 0px; --pseudoBefore--fontFamily: Arial; --pseudoBef=
+ore--content: &quot;=E2=80=A2&quot;;"></div></div><div style=3D"flex: 1 1 0=
+px; min-width: 1px; display: flex; flex-direction: column;"><div style=3D"d=
+isplay: flex;"><div spellcheck=3D"true" placeholder=3D"List" contenteditabl=
+e=3D"false" data-content-editable-leaf=3D"true" style=3D"max-width: 100%; w=
+idth: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb=
+(55, 53, 47); padding: 3px 2px; text-align: start;">Cities: Chicago &amp; N=
+ew Orleans</div><div style=3D"position: relative; left: 0px;"></div></div><=
+/div></div></div><div data-block-id=3D"bc0a61f7-f62d-4c7d-809e-795f6c8ab3bb=
+" class=3D"notion-selectable notion-bulleted_list-block notion-synthetic-gr=
+oup-block" style=3D"width: 100%; max-width: 1088px; margin-top: 1px; margin=
+-bottom: 1px;"><div style=3D"display: flex; align-items: flex-start; width:=
+ 100%; padding-left: 2px; color: inherit; fill: inherit;"><div contentedita=
+ble=3D"false" class=3D"notion-list-item-box-left pseudoSelection" data-cont=
+ent-editable-void=3D"true" data-text-edit-side=3D"start" style=3D"user-sele=
+ct: none; --pseudoSelection--background: transparent; margin-right: 2px; wi=
+dth: 24px; display: flex; align-items: center; justify-content: center; fle=
+x-grow: 0; flex-shrink: 0; min-height: calc(1.5em + 6px);"><div class=3D"ps=
+eudoBefore" style=3D"font-size: 1.5em; line-height: 1; margin-bottom: 0px; =
+--pseudoBefore--fontFamily: Arial; --pseudoBefore--content: &quot;=E2=80=A2=
+&quot;;"></div></div><div style=3D"flex: 1 1 0px; min-width: 1px; display: =
+flex; flex-direction: column;"><div style=3D"display: flex;"><div spellchec=
+k=3D"true" placeholder=3D"List" contenteditable=3D"false" data-content-edit=
+able-leaf=3D"true" style=3D"max-width: 100%; width: 100%; white-space: pre-=
+wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2p=
+x; text-align: start;">Description: The Airbnb Listings Data contains infor=
+mation about different properties available for rent on Airbnb in a specifi=
+c city. Each record represents a unique listing and includes attributes suc=
+h as property type, neighbourhood, number of bedrooms, pricing, availabilit=
+y, host information, and more.</div><div style=3D"position: relative; left:=
+ 0px;"></div></div></div></div></div><div data-block-id=3D"43f971f0-90c4-42=
+40-a44e-614596dbb2b6" class=3D"notion-selectable notion-text-block" style=
+=3D"width: 100%; max-width: 1088px; margin-top: 1px; margin-bottom: 1px;"><=
+div style=3D"color: inherit; fill: inherit;"><div style=3D"display: flex;">=
+<div spellcheck=3D"true" placeholder=3D" " contenteditable=3D"false" data-c=
+ontent-editable-leaf=3D"true" style=3D"max-width: 100%; width: 100%; white-=
+space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padd=
+ing: 3px 2px;"><span style=3D"font-weight:600" data-token-index=3D"0" class=
+=3D"notion-enable-hover">Key Attributes</span>:</div><div style=3D"position=
+: relative; left: 0px;"></div></div></div></div><div data-block-id=3D"80dc7=
+b49-2e03-41b5-8f8b-1fbf63f22b69" class=3D"notion-selectable notion-text-blo=
+ck" style=3D"width: 100%; max-width: 1088px; margin-top: 1px; margin-bottom=
+: 1px;"><div style=3D"color: inherit; fill: inherit;"><div style=3D"display=
+: flex;"><div spellcheck=3D"true" placeholder=3D" " contenteditable=3D"fals=
+e" data-content-editable-leaf=3D"true" style=3D"max-width: 100%; width: 100=
+%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, =
+47); padding: 3px 2px;">1. id: Unique identifier for each listing.</div><di=
+v style=3D"position: relative; left: 0px;"></div></div></div></div><div dat=
+a-block-id=3D"e6b85219-3736-4f41-98c0-800a2c712945" class=3D"notion-selecta=
+ble notion-text-block" style=3D"width: 100%; max-width: 1088px; margin-top:=
+ 1px; margin-bottom: 1px;"><div style=3D"color: inherit; fill: inherit;"><d=
+iv style=3D"display: flex;"><div spellcheck=3D"true" placeholder=3D" " cont=
+enteditable=3D"false" data-content-editable-leaf=3D"true" style=3D"max-widt=
+h: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-=
+color: rgb(55, 53, 47); padding: 3px 2px;">2. name: The title or name of th=
+e listing.</div><div style=3D"position: relative; left: 0px;"></div></div><=
+/div></div><div data-block-id=3D"25667c62-ee9d-4ae0-ab42-911a8ad6b0e2" clas=
+s=3D"notion-selectable notion-text-block" style=3D"width: 100%; max-width: =
+1088px; margin-top: 1px; margin-bottom: 1px;"><div style=3D"color: inherit;=
+ fill: inherit;"><div style=3D"display: flex;"><div spellcheck=3D"true" pla=
+ceholder=3D" " contenteditable=3D"false" data-content-editable-leaf=3D"true=
+" style=3D"max-width: 100%; width: 100%; white-space: pre-wrap; word-break:=
+ break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px;">3. host_id: U=
+nique identifier for the host of the property.</div><div style=3D"position:=
+ relative; left: 0px;"></div></div></div></div><div data-block-id=3D"af5ceb=
+33-f8f0-41fd-80f7-9f6ac8cfe907" class=3D"notion-selectable notion-text-bloc=
+k" style=3D"width: 100%; max-width: 1088px; margin-top: 1px; margin-bottom:=
+ 1px;"><div style=3D"color: inherit; fill: inherit;"><div style=3D"display:=
+ flex;"><div spellcheck=3D"true" placeholder=3D" " contenteditable=3D"false=
+" data-content-editable-leaf=3D"true" style=3D"max-width: 100%; width: 100%=
+; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 4=
+7); padding: 3px 2px;">4. host_name: Name of the host.</div><div style=3D"p=
+osition: relative; left: 0px;"></div></div></div></div><div data-block-id=
+=3D"9faa44e3-c0ea-49b8-b1ef-ab3f0d871d7b" class=3D"notion-selectable notion=
+-text-block" style=3D"width: 100%; max-width: 1088px; margin-top: 1px; marg=
+in-bottom: 1px;"><div style=3D"color: inherit; fill: inherit;"><div style=
+=3D"display: flex;"><div spellcheck=3D"true" placeholder=3D" " contentedita=
+ble=3D"false" data-content-editable-leaf=3D"true" style=3D"max-width: 100%;=
+ width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: r=
+gb(55, 53, 47); padding: 3px 2px;">5. neighbourhood_group: The broader area=
+ or group that the neighbourhood belongs to.</div><div style=3D"position: r=
+elative; left: 0px;"></div></div></div></div><div data-block-id=3D"7a5da6e5=
+-b3be-44e6-8dc7-be3e704155d0" class=3D"notion-selectable notion-text-block"=
+ style=3D"width: 100%; max-width: 1088px; margin-top: 1px; margin-bottom: 1=
+px;"><div style=3D"color: inherit; fill: inherit;"><div style=3D"display: f=
+lex;"><div spellcheck=3D"true" placeholder=3D" " contenteditable=3D"false" =
+data-content-editable-leaf=3D"true" style=3D"max-width: 100%; width: 100%; =
+white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47)=
+; padding: 3px 2px;">6. neighbourhood: Specific neighbourhood where the pro=
+perty is located.</div><div style=3D"position: relative; left: 0px;"></div>=
+</div></div></div><div data-block-id=3D"4b998708-af62-454e-ac06-150d371fdf5=
+5" class=3D"notion-selectable notion-text-block" style=3D"width: 100%; max-=
+width: 1088px; margin-top: 1px; margin-bottom: 1px;"><div style=3D"color: i=
+nherit; fill: inherit;"><div style=3D"display: flex;"><div spellcheck=3D"tr=
+ue" placeholder=3D" " contenteditable=3D"false" data-content-editable-leaf=
+=3D"true" style=3D"max-width: 100%; width: 100%; white-space: pre-wrap; wor=
+d-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px;">7. la=
+titude: Latitude coordinate of the property.</div><div style=3D"position: r=
+elative; left: 0px;"></div></div></div></div><div data-block-id=3D"87b2c51e=
+-7f1c-4c43-af31-6e2aac7701d1" class=3D"notion-selectable notion-text-block"=
+ style=3D"width: 100%; max-width: 1088px; margin-top: 1px; margin-bottom: 1=
+px;"><div style=3D"color: inherit; fill: inherit;"><div style=3D"display: f=
+lex;"><div spellcheck=3D"true" placeholder=3D" " contenteditable=3D"false" =
+data-content-editable-leaf=3D"true" style=3D"max-width: 100%; width: 100%; =
+white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47)=
+; padding: 3px 2px;">8. longitude: Longitude coordinate of the property.</d=
+iv><div style=3D"position: relative; left: 0px;"></div></div></div></div><d=
+iv data-block-id=3D"fade4dc6-fb85-4989-a511-b65adf45c769" class=3D"notion-s=
+electable notion-text-block" style=3D"width: 100%; max-width: 1088px; margi=
+n-top: 1px; margin-bottom: 1px;"><div style=3D"color: inherit; fill: inheri=
+t;"><div style=3D"display: flex;"><div spellcheck=3D"true" placeholder=3D" =
+" contenteditable=3D"false" data-content-editable-leaf=3D"true" style=3D"ma=
+x-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; =
+caret-color: rgb(55, 53, 47); padding: 3px 2px;">9. room_type: Type of room=
+ (e.g., Private room, Entire home/apt, Shared room).</div><div style=3D"pos=
+ition: relative; left: 0px;"></div></div></div></div><div data-block-id=3D"=
+5d6c81da-c5d0-45e8-9648-d5cf56db3bf0" class=3D"notion-selectable notion-tex=
+t-block" style=3D"width: 100%; max-width: 1088px; margin-top: 1px; margin-b=
+ottom: 1px;"><div style=3D"color: inherit; fill: inherit;"><div style=3D"di=
+splay: flex;"><div spellcheck=3D"true" placeholder=3D" " contenteditable=3D=
+"false" data-content-editable-leaf=3D"true" style=3D"max-width: 100%; width=
+: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55,=
+ 53, 47); padding: 3px 2px;">10. price: Price of the listing per night.</di=
+v><div style=3D"position: relative; left: 0px;"></div></div></div></div><di=
+v data-block-id=3D"2dd25394-db8e-45f5-ab1a-c40eeb1c9729" class=3D"notion-se=
+lectable notion-text-block" style=3D"width: 100%; max-width: 1088px; margin=
+-top: 1px; margin-bottom: 1px;"><div style=3D"color: inherit; fill: inherit=
+;"><div style=3D"display: flex;"><div spellcheck=3D"true" placeholder=3D" "=
+ contenteditable=3D"false" data-content-editable-leaf=3D"true" style=3D"max=
+-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; c=
+aret-color: rgb(55, 53, 47); padding: 3px 2px;">11. minimum_nights: Minimum=
+ number of nights required for booking.</div><div style=3D"position: relati=
+ve; left: 0px;"></div></div></div></div><div data-block-id=3D"fbc94229-4680=
+-4993-b0f6-fb647c83fe00" class=3D"notion-selectable notion-text-block" styl=
+e=3D"width: 100%; max-width: 1088px; margin-top: 1px; margin-bottom: 1px;">=
+<div style=3D"color: inherit; fill: inherit;"><div style=3D"display: flex;"=
+><div spellcheck=3D"true" placeholder=3D" " contenteditable=3D"false" data-=
+content-editable-leaf=3D"true" style=3D"max-width: 100%; width: 100%; white=
+-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); pad=
+ding: 3px 2px;">12. number_of_reviews: Total number of reviews received for=
+ the listing.</div><div style=3D"position: relative; left: 0px;"></div></di=
+v></div></div><div data-block-id=3D"408da37b-4999-420d-a97f-857cfe6a7d7a" c=
+lass=3D"notion-selectable notion-text-block" style=3D"width: 100%; max-widt=
+h: 1088px; margin-top: 1px; margin-bottom: 1px;"><div style=3D"color: inher=
+it; fill: inherit;"><div style=3D"display: flex;"><div spellcheck=3D"true" =
+placeholder=3D" " contenteditable=3D"false" data-content-editable-leaf=3D"t=
+rue" style=3D"max-width: 100%; width: 100%; white-space: pre-wrap; word-bre=
+ak: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px;">13. last_r=
+eview: Date of the last review.</div><div style=3D"position: relative; left=
+: 0px;"></div></div></div></div><div data-block-id=3D"1eff3f04-2018-458d-8d=
+28-755ade79ad6c" class=3D"notion-selectable notion-text-block" style=3D"wid=
+th: 100%; max-width: 1088px; margin-top: 1px; margin-bottom: 1px;"><div sty=
+le=3D"color: inherit; fill: inherit;"><div style=3D"display: flex;"><div sp=
+ellcheck=3D"true" placeholder=3D" " contenteditable=3D"false" data-content-=
+editable-leaf=3D"true" style=3D"max-width: 100%; width: 100%; white-space: =
+pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3p=
+x 2px;">14. reviews_per_month: Average number of reviews per month.</div><d=
+iv style=3D"position: relative; left: 0px;"></div></div></div></div><div da=
+ta-block-id=3D"c71400d0-631f-417f-8ecb-d6f56b50376d" class=3D"notion-select=
+able notion-text-block" style=3D"width: 100%; max-width: 1088px; margin-top=
+: 1px; margin-bottom: 1px;"><div style=3D"color: inherit; fill: inherit;"><=
+div style=3D"display: flex;"><div spellcheck=3D"true" placeholder=3D" " con=
+tenteditable=3D"false" data-content-editable-leaf=3D"true" style=3D"max-wid=
+th: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret=
+-color: rgb(55, 53, 47); padding: 3px 2px;">15. availability_365: Number of=
+ days the listing is available for booking in a year.</div><div style=3D"po=
+sition: relative; left: 0px;"></div></div></div></div><div data-block-id=3D=
+"b948778b-576b-41e0-80af-ac49cb48f723" class=3D"notion-selectable notion-te=
+xt-block" style=3D"width: 100%; max-width: 1088px; margin-top: 1px; margin-=
+bottom: 1px;"><div style=3D"color: inherit; fill: inherit;"><div style=3D"d=
+isplay: flex;"><div spellcheck=3D"true" placeholder=3D" " contenteditable=
+=3D"false" data-content-editable-leaf=3D"true" style=3D"max-width: 100%; wi=
+dth: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(=
+55, 53, 47); padding: 3px 2px;"><span style=3D"font-weight:600" data-token-=
+index=3D"0" class=3D"notion-enable-hover">Problem Areas to Explore:</span><=
+/div><div style=3D"position: relative; left: 0px;"></div></div></div></div>=
+<div data-block-id=3D"2bbf9094-fc7f-44d2-a1f4-b791f6ae83ce" class=3D"notion=
+-selectable notion-text-block" style=3D"width: 100%; max-width: 1088px; mar=
+gin-top: 1px; margin-bottom: 1px;"><div style=3D"color: inherit; fill: inhe=
+rit;"><div style=3D"display: flex;"><div spellcheck=3D"true" placeholder=3D=
+" " contenteditable=3D"false" data-content-editable-leaf=3D"true" style=3D"=
+max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word=
+; caret-color: rgb(55, 53, 47); padding: 3px 2px;">1. Which are the popular=
+ neighbourhoods, their average prices and no. of listings?</div><div style=
+=3D"position: relative; left: 0px;"></div></div></div></div><div data-block=
+-id=3D"e34cfc62-954a-4372-8bd7-75d7f29b6a60" class=3D"notion-selectable not=
+ion-text-block" style=3D"width: 100%; max-width: 1088px; margin-top: 1px; m=
+argin-bottom: 1px;"><div style=3D"color: inherit; fill: inherit;"><div styl=
+e=3D"display: flex;"><div spellcheck=3D"true" placeholder=3D" " contentedit=
+able=3D"false" data-content-editable-leaf=3D"true" style=3D"max-width: 100%=
+; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: =
+rgb(55, 53, 47); padding: 3px 2px;">2. What is the percent share of differe=
+nt property types and room types?</div><div style=3D"position: relative; le=
+ft: 0px;"></div></div></div></div><div data-block-id=3D"1c0cd4b3-5369-4829-=
+a3d0-a99f0ae627fd" class=3D"notion-selectable notion-text-block" style=3D"w=
+idth: 100%; max-width: 1088px; margin-top: 1px; margin-bottom: 1px;"><div s=
+tyle=3D"color: inherit; fill: inherit;"><div style=3D"display: flex;"><div =
+spellcheck=3D"true" placeholder=3D" " contenteditable=3D"false" data-conten=
+t-editable-leaf=3D"true" style=3D"max-width: 100%; width: 100%; white-space=
+: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: =
+3px 2px;">3. How the pricing is varying with location, property type, and r=
+eviews?</div><div style=3D"position: relative; left: 0px;"></div></div></di=
+v></div><div data-block-id=3D"53ad31be-143f-4988-9329-a2a8b985539e" class=
+=3D"notion-selectable notion-text-block" style=3D"width: 100%; max-width: 1=
+088px; margin-top: 1px; margin-bottom: 1px;"><div style=3D"color: inherit; =
+fill: inherit;"><div style=3D"display: flex;"><div spellcheck=3D"true" plac=
+eholder=3D" " contenteditable=3D"false" data-content-editable-leaf=3D"true"=
+ style=3D"max-width: 100%; width: 100%; white-space: pre-wrap; word-break: =
+break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px;">4. What are th=
+e different correlations between type of hosts and factors like- reviews &a=
+mp; price?</div><div style=3D"position: relative; left: 0px;"></div></div><=
+/div></div><div data-block-id=3D"25320aa3-e8dd-4e6e-b852-a537bf3b6d98" clas=
+s=3D"notion-selectable notion-text-block" style=3D"width: 100%; max-width: =
+1088px; margin-top: 1px; margin-bottom: 1px;"><div style=3D"color: inherit;=
+ fill: inherit;"><div style=3D"display: flex;"><div spellcheck=3D"true" pla=
+ceholder=3D" " contenteditable=3D"false" data-content-editable-leaf=3D"true=
+" style=3D"max-width: 100%; width: 100%; white-space: pre-wrap; word-break:=
+ break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px;">Divide the vi=
+sualisation findings into 4 categories:</div><div style=3D"position: relati=
+ve; left: 0px;"></div></div></div></div><div data-block-id=3D"5e983851-c546=
+-4d99-834b-97d528ab22ee" class=3D"notion-selectable notion-bulleted_list-bl=
+ock notion-synthetic-group-block" style=3D"width: 100%; max-width: 1088px; =
+margin-top: 1px; margin-bottom: 1px;"><div style=3D"display: flex; align-it=
+ems: flex-start; width: 100%; padding-left: 2px; color: inherit; fill: inhe=
+rit;"><div contenteditable=3D"false" class=3D"notion-list-item-box-left pse=
+udoSelection" data-content-editable-void=3D"true" data-text-edit-side=3D"st=
+art" style=3D"user-select: none; --pseudoSelection--background: transparent=
+; margin-right: 2px; width: 24px; display: flex; align-items: center; justi=
+fy-content: center; flex-grow: 0; flex-shrink: 0; min-height: calc(1.5em + =
+6px);"><div class=3D"pseudoBefore" style=3D"font-size: 1.5em; line-height: =
+1; margin-bottom: 0px; --pseudoBefore--fontFamily: Arial; --pseudoBefore--c=
+ontent: &quot;=E2=80=A2&quot;;"></div></div><div style=3D"flex: 1 1 0px; mi=
+n-width: 1px; display: flex; flex-direction: column;"><div style=3D"display=
+: flex;"><div spellcheck=3D"true" placeholder=3D"List" contenteditable=3D"f=
+alse" data-content-editable-leaf=3D"true" style=3D"max-width: 100%; width: =
+100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 5=
+3, 47); padding: 3px 2px; text-align: start;">Overview of Airbnb</div><div =
+style=3D"position: relative; left: 0px;"></div></div></div></div></div><div=
+ data-block-id=3D"483dd602-62c1-4c7a-8fb1-f90327bac42b" class=3D"notion-sel=
+ectable notion-bulleted_list-block notion-synthetic-group-block" style=3D"w=
+idth: 100%; max-width: 1088px; margin-top: 1px; margin-bottom: 1px;"><div s=
+tyle=3D"display: flex; align-items: flex-start; width: 100%; padding-left: =
+2px; color: inherit; fill: inherit;"><div contenteditable=3D"false" class=
+=3D"notion-list-item-box-left pseudoSelection" data-content-editable-void=
+=3D"true" data-text-edit-side=3D"start" style=3D"user-select: none; --pseud=
+oSelection--background: transparent; margin-right: 2px; width: 24px; displa=
+y: flex; align-items: center; justify-content: center; flex-grow: 0; flex-s=
+hrink: 0; min-height: calc(1.5em + 6px);"><div class=3D"pseudoBefore" style=
+=3D"font-size: 1.5em; line-height: 1; margin-bottom: 0px; --pseudoBefore--f=
+ontFamily: Arial; --pseudoBefore--content: &quot;=E2=80=A2&quot;;"></div></=
+div><div style=3D"flex: 1 1 0px; min-width: 1px; display: flex; flex-direct=
+ion: column;"><div style=3D"display: flex;"><div spellcheck=3D"true" placeh=
+older=3D"List" contenteditable=3D"false" data-content-editable-leaf=3D"true=
+" style=3D"max-width: 100%; width: 100%; white-space: pre-wrap; word-break:=
+ break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px; text-align: st=
+art;">Property analysis</div><div style=3D"position: relative; left: 0px;">=
+</div></div></div></div></div><div data-block-id=3D"d84f511c-5d9a-467f-b85c=
+-5519496bb3af" class=3D"notion-selectable notion-bulleted_list-block notion=
+-synthetic-group-block" style=3D"width: 100%; max-width: 1088px; margin-top=
+: 1px; margin-bottom: 1px;"><div style=3D"display: flex; align-items: flex-=
+start; width: 100%; padding-left: 2px; color: inherit; fill: inherit;"><div=
+ contenteditable=3D"false" class=3D"notion-list-item-box-left pseudoSelecti=
+on" data-content-editable-void=3D"true" data-text-edit-side=3D"start" style=
+=3D"user-select: none; --pseudoSelection--background: transparent; margin-r=
+ight: 2px; width: 24px; display: flex; align-items: center; justify-content=
+: center; flex-grow: 0; flex-shrink: 0; min-height: calc(1.5em + 6px);"><di=
+v class=3D"pseudoBefore" style=3D"font-size: 1.5em; line-height: 1; margin-=
+bottom: 0px; --pseudoBefore--fontFamily: Arial; --pseudoBefore--content: &q=
+uot;=E2=80=A2&quot;;"></div></div><div style=3D"flex: 1 1 0px; min-width: 1=
+px; display: flex; flex-direction: column;"><div style=3D"display: flex;"><=
+div spellcheck=3D"true" placeholder=3D"List" contenteditable=3D"false" data=
+-content-editable-leaf=3D"true" style=3D"max-width: 100%; width: 100%; whit=
+e-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); pa=
+dding: 3px 2px; text-align: start;">Pricing analysis</div><div style=3D"pos=
+ition: relative; left: 0px;"></div></div></div></div></div><div data-block-=
+id=3D"bd1039d2-52cd-42d7-9d30-dd829d905c7d" class=3D"notion-selectable noti=
+on-bulleted_list-block notion-synthetic-group-block" style=3D"width: 100%; =
+max-width: 1088px; margin-top: 1px; margin-bottom: 1px;"><div style=3D"disp=
+lay: flex; align-items: flex-start; width: 100%; padding-left: 2px; color: =
+inherit; fill: inherit;"><div contenteditable=3D"false" class=3D"notion-lis=
+t-item-box-left pseudoSelection" data-content-editable-void=3D"true" data-t=
+ext-edit-side=3D"start" style=3D"user-select: none; --pseudoSelection--back=
+ground: transparent; margin-right: 2px; width: 24px; display: flex; align-i=
+tems: center; justify-content: center; flex-grow: 0; flex-shrink: 0; min-he=
+ight: calc(1.5em + 6px);"><div class=3D"pseudoBefore" style=3D"font-size: 1=
+.5em; line-height: 1; margin-bottom: 0px; --pseudoBefore--fontFamily: Arial=
+; --pseudoBefore--content: &quot;=E2=80=A2&quot;;"></div></div><div style=
+=3D"flex: 1 1 0px; min-width: 1px; display: flex; flex-direction: column;">=
+<div style=3D"display: flex;"><div spellcheck=3D"true" placeholder=3D"List"=
+ contenteditable=3D"false" data-content-editable-leaf=3D"true" style=3D"max=
+-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; c=
+aret-color: rgb(55, 53, 47); padding: 3px 2px; text-align: start;">Host ana=
+lysis</div><div style=3D"position: relative; left: 0px;"></div></div></div>=
+</div></div><div data-block-id=3D"63424e8a-d055-4a2f-8af9-7527e0e139dd" cla=
+ss=3D"notion-selectable notion-text-block" style=3D"width: 100%; max-width:=
+ 1088px; margin-top: 1px; margin-bottom: 1px;"><div style=3D"color: inherit=
+; fill: inherit;"><div style=3D"display: flex;"><div spellcheck=3D"true" pl=
+aceholder=3D" " contenteditable=3D"false" data-content-editable-leaf=3D"tru=
+e" style=3D"max-width: 100%; width: 100%; white-space: pre-wrap; word-break=
+: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px;"><span style=
+=3D"font-weight:600" data-token-index=3D"0" class=3D"notion-enable-hover">H=
+ow to proceed with the dashboard:</span></div><div style=3D"position: relat=
+ive; left: 0px;"></div></div></div></div><div data-block-id=3D"a72bac19-145=
+b-41e9-af6a-8e7268b74831" class=3D"notion-selectable notion-numbered_list-b=
+lock notion-synthetic-group-block" style=3D"width: 100%; max-width: 1088px;=
+ margin-top: 1px; margin-bottom: 1px;"><div style=3D"display: flex; align-i=
+tems: flex-start; width: 100%; padding-left: 2px; color: inherit; fill: inh=
+erit;"><div contenteditable=3D"false" class=3D"notion-list-item-box-left ps=
+eudoSelection" data-content-editable-void=3D"true" data-text-edit-side=3D"s=
+tart" style=3D"user-select: none; --pseudoSelection--background: transparen=
+t; margin-right: 2px; width: unset; display: flex; align-items: center; jus=
+tify-content: center; flex-grow: 0; flex-shrink: 0; min-height: calc(1.5em =
++ 6px);"><span class=3D"pseudoBefore" style=3D"--pseudoBefore--content: &qu=
+ot;1.&quot;; width: 24px; text-align: center; white-space: nowrap;"></span>=
+</div><div style=3D"flex: 1 1 0px; min-width: 1px; display: flex; flex-dire=
+ction: column;"><div style=3D"display: flex;"><div spellcheck=3D"true" plac=
+eholder=3D"List" contenteditable=3D"false" data-content-editable-leaf=3D"tr=
+ue" style=3D"max-width: 100%; width: 100%; white-space: pre-wrap; word-brea=
+k: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px; text-align: =
+start;"><span style=3D"font-weight:600" data-token-index=3D"0" class=3D"not=
+ion-enable-hover">Data Cleaning</span></div><div style=3D"position: relativ=
+e; left: 0px;"></div></div></div></div></div><div data-block-id=3D"1fc77be3=
+-344d-4da3-b0b3-6c46721e6f72" class=3D"notion-selectable notion-text-block"=
+ style=3D"width: 100%; max-width: 1088px; margin-top: 1px; margin-bottom: 1=
+px;"><div style=3D"color: inherit; fill: inherit;"><div style=3D"display: f=
+lex;"><div spellcheck=3D"true" placeholder=3D" " contenteditable=3D"false" =
+data-content-editable-leaf=3D"true" style=3D"max-width: 100%; width: 100%; =
+white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47)=
+; padding: 3px 2px;">Begin by addressing the disorder and inconsistency wit=
+hin the dataset. Utilise Jupyter Notebook and Tableau Desktop/Tableau Publi=
+c/PowerBI Prep to systematically cleanse the data, rectifying discrepancies=
+, eliminating duplicates, and standardising formats.</div><div style=3D"pos=
+ition: relative; left: 0px;"></div></div></div></div><div data-block-id=3D"=
+7135321a-781c-4c3e-ad05-9f69741f6d7e" class=3D"notion-selectable notion-num=
+bered_list-block notion-synthetic-group-block" style=3D"width: 100%; max-wi=
+dth: 1088px; margin-top: 1px; margin-bottom: 1px;"><div style=3D"display: f=
+lex; align-items: flex-start; width: 100%; padding-left: 2px; color: inheri=
+t; fill: inherit;"><div contenteditable=3D"false" class=3D"notion-list-item=
+-box-left pseudoSelection" data-content-editable-void=3D"true" data-text-ed=
+it-side=3D"start" style=3D"user-select: none; --pseudoSelection--background=
+: transparent; margin-right: 2px; width: unset; display: flex; align-items:=
+ center; justify-content: center; flex-grow: 0; flex-shrink: 0; min-height:=
+ calc(1.5em + 6px);"><span class=3D"pseudoBefore" style=3D"--pseudoBefore--=
+content: &quot;2.&quot;; width: 24px; text-align: center; white-space: nowr=
+ap;"></span></div><div style=3D"flex: 1 1 0px; min-width: 1px; display: fle=
+x; flex-direction: column;"><div style=3D"display: flex;"><div spellcheck=
+=3D"true" placeholder=3D"List" contenteditable=3D"false" data-content-edita=
+ble-leaf=3D"true" style=3D"max-width: 100%; width: 100%; white-space: pre-w=
+rap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px=
+; text-align: start;"><span style=3D"font-weight:600" data-token-index=3D"0=
+" class=3D"notion-enable-hover">Data Transformation</span></div><div style=
+=3D"position: relative; left: 0px;"></div></div></div></div></div><div data=
+-block-id=3D"59500863-6d06-4203-84f9-faaf9520af71" class=3D"notion-selectab=
+le notion-text-block" style=3D"width: 100%; max-width: 1088px; margin-top: =
+1px; margin-bottom: 1px;"><div style=3D"color: inherit; fill: inherit;"><di=
+v style=3D"display: flex;"><div spellcheck=3D"true" placeholder=3D" " conte=
+nteditable=3D"false" data-content-editable-leaf=3D"true" style=3D"max-width=
+: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-c=
+olor: rgb(55, 53, 47); padding: 3px 2px;">Generate supplementary columns by=
+ utilising pre-existing categorical data. These columns will be derived fro=
+m extensive descriptive text, which, in its original form, proved arduous t=
+o comprehend and unsuitable for visualisation purposes. The extra columns t=
+hat we created gave a much clear sense of how to approach and make an effec=
+tive visualisation.</div><div style=3D"position: relative; left: 0px;"></di=
+v></div></div></div><div data-block-id=3D"d828e695-11de-4ef3-b961-fc51a6464=
+5ae" class=3D"notion-selectable notion-numbered_list-block notion-synthetic=
+-group-block" style=3D"width: 100%; max-width: 1088px; margin-top: 1px; mar=
+gin-bottom: 1px;"><div style=3D"display: flex; align-items: flex-start; wid=
+th: 100%; padding-left: 2px; color: inherit; fill: inherit;"><div contented=
+itable=3D"false" class=3D"notion-list-item-box-left pseudoSelection" data-c=
+ontent-editable-void=3D"true" data-text-edit-side=3D"start" style=3D"user-s=
+elect: none; --pseudoSelection--background: transparent; margin-right: 2px;=
+ width: unset; display: flex; align-items: center; justify-content: center;=
+ flex-grow: 0; flex-shrink: 0; min-height: calc(1.5em + 6px);"><span class=
+=3D"pseudoBefore" style=3D"--pseudoBefore--content: &quot;3.&quot;; width: =
+24px; text-align: center; white-space: nowrap;"></span></div><div style=3D"=
+flex: 1 1 0px; min-width: 1px; display: flex; flex-direction: column;"><div=
+ style=3D"display: flex;"><div spellcheck=3D"true" placeholder=3D"List" con=
+tenteditable=3D"false" data-content-editable-leaf=3D"true" style=3D"max-wid=
+th: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret=
+-color: rgb(55, 53, 47); padding: 3px 2px; text-align: start;"><span style=
+=3D"font-weight:600" data-token-index=3D"0" class=3D"notion-enable-hover">T=
+ableau Desktop/Tableau Public/PowerBI</span></div><div style=3D"position: r=
+elative; left: 0px;"></div></div></div></div></div><div data-block-id=3D"a2=
+496cf7-edd0-415e-82f9-e9e573b1f4d4" class=3D"notion-selectable notion-text-=
+block" style=3D"width: 100%; max-width: 1088px; margin-top: 1px; margin-bot=
+tom: 1px;"><div style=3D"color: inherit; fill: inherit;"><div style=3D"disp=
+lay: flex;"><div spellcheck=3D"true" placeholder=3D" " contenteditable=3D"f=
+alse" data-content-editable-leaf=3D"true" style=3D"max-width: 100%; width: =
+100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 5=
+3, 47); padding: 3px 2px;">Employ Tableau Desktop/Tableau Public/PowerBI Pr=
+ep to leverage its distinctive "Group and Replace" feature. Under the colum=
+n denoted as Neighbourhood there are instances where identical entities are=
+ variably represented due to disparities in letter casing, spelling variati=
+ons, or phonetic similarity. The "Group and Replace" algorithm inherent to =
+Tableau Desktop/Tableau Public/PowerBI Prep proved instrumental in mitigati=
+ng this issue.</div><div style=3D"position: relative; left: 0px;"></div></d=
+iv></div></div><div data-block-id=3D"087fa4a3-b64c-485e-979b-84b7e90ba09e" =
+class=3D"notion-selectable notion-text-block end-of-content" style=3D"width=
+: 100%; max-width: 1088px; margin-top: 1px; margin-bottom: 0px;"><div style=
+=3D"color: inherit; fill: inherit;"><div style=3D"display: flex;"><div spel=
+lcheck=3D"true" placeholder=3D" " contenteditable=3D"false" data-content-ed=
+itable-leaf=3D"true" style=3D"max-width: 100%; width: 100%; white-space: pr=
+e-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px =
+2px; min-height: 1em; color: rgb(55, 53, 47); -webkit-text-fill-color: rgba=
+(55, 53, 47, 0.5);"></div><div style=3D"position: relative; left: 0px;"></d=
+iv></div></div></div></div></div></div><span data-content-editable-root-tin=
+y-selection-trap=3D"true" style=3D"height: 1px; width: 1px; caret-color: tr=
+ansparent;"></span></div><div class=3D"notion-presence-container" style=3D"=
+position: absolute; top: 0px; left: 0px; z-index: 89;"><div></div></div><di=
+v class=3D"sticky-portal-target" data-sticky-stack-name=3D"default" style=
+=3D"position: sticky; z-index: 85; width: 100%; bottom: 0px; left: 0px; fle=
+x: 0 1 0%;"></div></div></div></main></div><div role=3D"region" aria-label=
+=3D"Side Peek" aria-hidden=3D"true" class=3D"notion-peek-renderer" style=3D=
+"position: fixed; top: 0px; right: 0px; bottom: 0px; width: 640px; z-index:=
+ 109; transform: translateX(640px) translateZ(0px); transition-duration: 20=
+0ms; transition-timing-function: ease; transition-property: width, transfor=
+m;"></div></div></div><div class=3D"notion-overlay-container notion-default=
+-overlay-container" style=3D"position: fixed; inset: 0px; z-index: 999; poi=
+nter-events: none; overflow: hidden;"><div style=3D"position: relative; z-i=
+ndex: 0;"></div></div></div></div><iframe sandbox=3D"allow-scripts allow-sa=
+me-origin" style=3D"position: absolute; opacity: 0; width: 1px; height: 1px=
+; top: 0; left: 0; border: none; display: block; z-index: -1;" aria-hidden=
+=3D"true" tabindex=3D"-1" referrerpolicy=3D"no-referrer" src=3D"cid:frame-8=
+1B1FAC3FD285087618416AA7BA60344@mhtml.blink"></iframe></body><grammarly-des=
+ktop-integration data-grammarly-shadow-root=3D"true"><template shadowmode=
+=3D"open"><div aria-label=3D"grammarly-integration" role=3D"group" tabindex=
+=3D"-1" class=3D"grammarly-desktop-integration" data-content=3D"{&quot;mode=
+&quot;:&quot;full&quot;,&quot;isActive&quot;:true,&quot;isUserDisabled&quot=
+;:false}"></div></template></grammarly-desktop-integration></html>
+------MultipartBoundary--Hn5MrnHNiylsz9lYg2Kp2Mz4SO6l99clHSO0eoxMZ9----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-73d18057-215b-4d63-9865-b4aa1740d312@mhtml.blink
+
+@charset "utf-8";
+
+body { background: rgb(255, 255, 255); }
+
+body.dark { background: rgb(25, 25, 25); }
+
+@keyframes startup-shimmer-animation {=20
+  0% { transform: translateX(-100%) translateZ(0px); }
+  100% { transform: translateX(100%) translateZ(0px); }
+}
+
+@keyframes startup-shimmer-fade-in {=20
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@keyframes startup-spinner-rotate {=20
+  0% { transform: rotate(0deg) translateZ(0px); }
+  100% { transform: rotate(360deg) translateZ(0px); }
+}
+
+#initial-loading-spinner { position: fixed; height: 100vh; width: 100vw; z-=
+index: -1; display: none; align-items: center; justify-content: center; opa=
+city: 0.5; }
+
+#initial-loading-spinner svg { height: 24px; width: 24px; animation: 1s lin=
+ear 0s infinite normal none running startup-spinner-rotate; transform-origi=
+n: center center; pointer-events: none; }
+
+#skeleton { background: rgb(255, 255, 255); position: fixed; height: 100vh;=
+ width: 100vw; z-index: -1; display: none; overflow: hidden; }
+
+#initial-loading-spinner.show, #skeleton.show { display: flex; }
+
+body.dark #skeleton { background: rgb(25, 25, 25); }
+
+.notion-front-page #skeleton, .notion-mobile #skeleton { display: none; }
+
+#skeleton-sidebar { background-color: rgb(248, 248, 247); box-shadow: rgba(=
+0, 0, 0, 0.024) -1px 0px 0px 0px inset; display: flex; width: 240px; flex-d=
+irection: column; padding: 12px 14px; overflow: hidden; }
+
+body.dark #skeleton-sidebar { background-color: rgb(32, 32, 32); box-shadow=
+: rgba(255, 255, 255, 0.05) -1px 0px 0px 0px inset; }
+
+#skeleton.isElectron #skeleton-sidebar { padding-top: 46px; }
+
+#skeleton .row { display: flex; margin-bottom: 11px; align-items: center; }
+
+#skeleton .row.fadein { animation: 1s ease-in 0s 1 normal both running star=
+tup-shimmer-fade-in; }
+
+#skeleton .chevron { width: 12px; height: 12px; display: block; margin-righ=
+t: 4px; fill: rgba(227, 226, 224, 0.5); }
+
+body.dark #skeleton .chevron { fill: rgb(47, 47, 47); }
+
+.startup-shimmer { background: rgba(227, 226, 224, 0.5); overflow: hidden; =
+position: relative; }
+
+body.dark .startup-shimmer { background: rgb(47, 47, 47); }
+
+.startup-shimmer::before { content: ""; position: absolute; height: 100%; w=
+idth: 100%; z-index: 1; animation: 1s linear 0s infinite normal none runnin=
+g startup-shimmer-animation; background: linear-gradient(90deg, rgba(0, 0, =
+0, 0) 0px, rgba(0, 0, 0, 0.03) 50%, rgba(0, 0, 0, 0) 100%); }
+
+body.dark .startup-shimmer::before { background: linear-gradient(90deg, tra=
+nsparent 0px, rgba(86, 86, 86, 0.1) 50%, transparent 100%); }
+
+#skeleton .icon { width: 20px; height: 20px; border-radius: 4px; }
+
+#skeleton .text { height: 10px; border-radius: 10px; }
+
+#skeleton .draggable { app-region: drag; position: absolute; top: 0px; left=
+: 0px; width: 100%; height: 36px; display: none; }
+
+#skeleton.isElectron .draggable { display: block; }
+------MultipartBoundary--Hn5MrnHNiylsz9lYg2Kp2Mz4SO6l99clHSO0eoxMZ9----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-4eb9a25f-a2a5-4068-9950-e86361f84aa3@mhtml.blink
+
+@charset "utf-8";
+
+.assistant-grouped-edit-chat-container .assistant-grouped-edit-insert { bac=
+kground: initial !important; border-bottom: initial !important; color: rgb(=
+55, 53, 47) !important; }
+
+.assistant-grouped-edit-chat-container .assistant-grouped-edit-remove { bac=
+kground: initial !important; border-bottom: initial !important; color: rgb(=
+199, 198, 196) !important; }
+------MultipartBoundary--Hn5MrnHNiylsz9lYg2Kp2Mz4SO6l99clHSO0eoxMZ9----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-679c3b13-27c3-4d4b-aa48-fe90fa2ec152@mhtml.blink
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--Hn5MrnHNiylsz9lYg2Kp2Mz4SO6l99clHSO0eoxMZ9----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://almabetter.notion.site/print.e2ba4c31.css
+
+@charset "utf-8";
+
+html, body, #notion-app { -webkit-print-color-adjust: exact; height: auto !=
+important; overflow: auto !important; font-size: 14px !important; padding: =
+0px !important; margin: 0px !important; }
+
+.notion-ai-button, .notion-help-button, .notion-print-ignore, .notion-overl=
+ay-container, .notion-sidebar-container, .notion-presence-container, .notio=
+n-topbar, .notion-topbar-export-popup, .notion-selectable-halo, .notion-hel=
+p-button, .notion-page-controls, .notion-floating-table-of-contents { displ=
+ay: none !important; }
+
+.notion-frame { -webkit-print-color-adjust: exact; width: 100% !important; =
+height: auto !important; border: none !important; padding: 0px !important; =
+margin: 0px !important; }
+
+.notion-scroller { height: auto !important; width: 100% !important; max-hei=
+ght: none !important; max-width: none !important; overflow: visible !import=
+ant; padding: 0px !important; margin: 0px !important; display: block !impor=
+tant; }
+
+html { height: auto !important; overflow: auto !important; font-size: 14px =
+!important; }
+
+.notion-invoice { height: auto !important; }
+
+.notion-code-block > div { white-space: normal !important; }
+
+.notion-selectable { break-inside: avoid; position: relative; overflow: ini=
+tial; min-height: 0px; max-width: none !important; }
+
+.notion-page-content { position: relative; overflow: initial; min-height: 0=
+px; display: block !important; width: 100% !important; }
+
+@page { size: auto; margin: 20mm 0px; }
+
+.notion-table-content { padding: 0px !important; }
+------MultipartBoundary--Hn5MrnHNiylsz9lYg2Kp2Mz4SO6l99clHSO0eoxMZ9----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://almabetter.notion.site/_assets/app-308edd0243fe7549.css
+
+@charset "utf-8";
+
+@font-face { font-family: Lyon-Text; font-style: normal; font-weight: 400; =
+src: url("/_assets/lyon-text-regular-3be84b20b1d9ff1e3456b0a220ae449b.woff"=
+) format("woff"); }
+
+@font-face { font-family: Lyon-Text; font-style: italic; font-weight: 400; =
+src: url("/_assets/lyon-text-regular-italic-437d32a42fc5b8268bb4a1e0cc8b363=
+f.woff") format("woff"); }
+
+@font-face { font-family: Lyon-Text; font-style: normal; font-weight: 600; =
+src: url("/_assets/lyon-text-semibold-acb7f110189034ff6a1afa4b730be0ed.woff=
+") format("woff"); }
+
+@font-face { font-family: Lyon-Text; font-style: italic; font-weight: 600; =
+src: url("/_assets/lyon-text-semibold-italic-1f81a2f93060f05edd7f078ac91f25=
+e6.woff") format("woff"); }
+
+@font-face { font-family: iawriter-mono; font-style: normal; font-weight: 4=
+00; src: url("/_assets/iawriter-mono-regular-4b73d071988a4f1cd2283524716ad9=
+70.woff") format("woff"); }
+
+@font-face { font-family: iawriter-mono; font-style: italic; font-weight: 4=
+00; src: url("/_assets/iawriter-mono-italic-d5d3224c1377168e261efc6aa0ce89c=
+6.woff") format("woff"); }
+
+@font-face { font-family: iawriter-mono; font-style: normal; font-weight: 6=
+00; src: url("/_assets/iawriter-mono-bold-eb96a5e539892d26cf8b0cb2367e3580.=
+woff") format("woff"); }
+
+@font-face { font-family: iawriter-mono; font-style: italic; font-weight: 6=
+00; src: url("/_assets/iawriter-mono-bold-italic-743b231fa82483406c79a00fa1=
+f12fe8.woff") format("woff"); }
+
+@font-face { font-family: inter; font-style: normal; font-weight: 400; src:=
+ url("/_assets/inter-ui-regular-3ae6a7d3890c33d857fc00bd2e4c4820.woff") for=
+mat("woff"); }
+
+@font-face { font-family: inter; font-style: normal; font-weight: 500; src:=
+ url("/_assets/inter-ui-medium-95b8a98959d1af9ab432d7ffe295ef94.woff") form=
+at("woff"); }
+
+@font-face { font-family: inter; font-style: normal; font-weight: 600; src:=
+ url("/_assets/inter-ui-semibold-19b57197b819695d334b9961ee41910e.woff") fo=
+rmat("woff"); }
+
+@font-face { font-family: inter; font-style: normal; font-weight: 700; src:=
+ url("/_assets/inter-ui-bold-001893789f7f342b520f29ac8af7d6ca.woff") format=
+("woff"); }
+
+@font-face { font-family: permanent-marker; font-style: normal; font-weight=
+: 400; src: url("/_assets/permanent-marker-a6d62939e7c920a184ddddcf4149e62c=
+.woff") format("woff"); }
+
+.notion-frame .katex-display .katex { padding-right: 32px; }
+
+.notion-frame .katex > .katex-html { white-space: normal; }
+
+.notion-frame .katex-display .base { margin-bottom: 2px; margin-top: 2px; }
+
+.notion-frame .notion-text-equation-token .katex { line-height: 1; }
+
+html { text-size-adjust: 100%; font-family: sans-serif; }
+
+body { margin: 0px; }
+
+article, aside, details, figcaption, figure, footer, header, hgroup, main, =
+menu, nav, section, summary { display: block; }
+
+audio, canvas, progress, video { display: inline-block; vertical-align: ini=
+tial; }
+
+audio:not([controls]) { display: none; height: 0px; }
+
+[hidden], template { display: none; }
+
+a { background-color: initial; }
+
+a:active, a:hover { outline: 0px; }
+
+abbr[title] { border-bottom: 1px dotted; }
+
+b, strong { font-weight: 700; }
+
+dfn { font-style: italic; }
+
+h1 { font-size: 2em; margin: 0.67em 0px; }
+
+mark { background: rgb(255, 255, 0); color: rgb(0, 0, 0); }
+
+small { font-size: 80%; }
+
+sub, sup { font-size: 75%; line-height: 0; position: relative; vertical-ali=
+gn: initial; }
+
+sup { top: -0.5em; }
+
+sub { bottom: -0.25em; }
+
+img { border: 0px; }
+
+figure { margin: 1em 40px; }
+
+hr { box-sizing: initial; height: 0px; }
+
+code, kbd, pre, samp { font-family: inherit; }
+
+button, input, optgroup, select, textarea { color: inherit; font: inherit; =
+margin: 0px; }
+
+button { overflow: visible; }
+
+button, select { text-transform: none; }
+
+button, html input[type=3D"button"], input[type=3D"reset"], input[type=3D"s=
+ubmit"] { appearance: button; cursor: pointer; }
+
+button[disabled], html input[disabled] { cursor: default; }
+
+input[type=3D"checkbox"], input[type=3D"radio"] { box-sizing: border-box; p=
+adding: 0px; }
+
+input[type=3D"number"]::-webkit-inner-spin-button, input[type=3D"number"]::=
+-webkit-outer-spin-button { height: auto; }
+
+input[type=3D"search"] { appearance: textfield; box-sizing: initial; }
+
+input[type=3D"search"]::-webkit-search-cancel-button, input[type=3D"search"=
+]::-webkit-search-decoration { appearance: none; }
+
+fieldset { border: 1px solid silver; margin: 0px 2px; padding: 0.35em 0.625=
+em 0.75em; }
+
+legend { border: 0px; padding: 0px; }
+
+textarea { overflow: auto; }
+
+optgroup { font-weight: 700; }
+
+table { border-collapse: collapse; border-spacing: 0px; }
+
+td, th { padding: 0px; }
+
+.notion-link { transition: 0.1s ease-in; }
+
+.notion-link:hover { color: rgb(235, 87, 87) !important; }
+
+.notion-link-ai-version { transition: 0.1s ease-in; }
+
+.notion-link-ai-version:hover { color: rgb(202, 89, 255) !important; }
+
+.notion-link-blue:hover { color: rgb(35, 131, 226) !important; }
+
+.notion-ai-icon { transition: 0.1s ease-in; }
+
+.notion-ai-icon:hover { filter: brightness(1.3); }
+
+.notion-mobile-tapping { opacity: 0.6; }
+
+.notion-reminder.notion-enable-hover:hover { text-decoration: underline; }
+
+.notion-token-remove-button:hover { opacity: 0.8; }
+
+.notion-notion-external-object, .notion-page-mention-token { box-shadow: rg=
+ba(148, 148, 148, 0) 0px 0px 0px 3px; }
+
+.notion-external-object-token.notion-enable-hover:hover, .notion-page-menti=
+on-token.notion-enable-hover:hover { background: rgba(148, 148, 148, 0.15);=
+ border-radius: 1px; box-shadow: rgba(148, 148, 148, 0.15) 0px 0px 0px 3px;=
+ cursor: pointer !important; }
+
+.notion-external-object-token::selection, .notion-page-mention-token::selec=
+tion { background: rgba(35, 131, 226, 0.14); }
+
+.notion-citation-mention-token { background-color: rgb(172, 171, 169); colo=
+r: rgb(255, 255, 255); }
+
+.notion-dark-theme .notion-citation-mention-token { background-color: rgb(5=
+1, 51, 51); color: rgb(255, 255, 255); }
+
+.notion-citation-mention-token.notion-enable-hover:hover { background-color=
+: rgb(35, 131, 226); }
+
+.notion-focusable-within:focus-within { box-shadow: rgba(35, 131, 226, 0.57=
+) 0px 0px 0px 1px inset, rgba(35, 131, 226, 0.35) 0px 0px 0px 2px !importan=
+t; }
+
+.notion-focusable-within.notion-focusable-within-error-outline { box-shadow=
+: rgba(235, 87, 87, 0.57) 0px 0px 0px 1px inset, rgba(235, 87, 87, 0.35) 0p=
+x 0px 0px 2px !important; }
+
+.notion-focusable-token:focus-visible { box-shadow: rgba(35, 131, 226, 0.57=
+) 0px 0px 0px 1px inset, rgba(35, 131, 226, 0.35) 0px 0px 0px 2px !importan=
+t; }
+
+.notion-cursor-default { cursor: default; }
+
+.notion-cursor-pointer { cursor: pointer; }
+
+.notion-sidebar-container, .notion-topbar { cursor: default; }
+
+.notion-disable-local-cursor .notion-cursor-default, .notion-disable-local-=
+cursor .notion-cursor-pointer, .notion-disable-local-cursor .notion-sidebar=
+-container, .notion-disable-local-cursor .notion-topbar { cursor: inherit; =
+}
+
+.notion-disable-webkit-user-select, .notion-disable-webkit-user-select * { =
+user-select: none; }
+
+#notion-app a { cursor: inherit; }
+
+.notion-fadein { animation: 0.33s ease-in 0s 1 normal none running fadein; =
+}
+
+.notion-fadein-fast { animation: 0.23s ease-in 0s 1 normal none running fad=
+ein; }
+
+.notion-fadein-slow { animation: 0.6s ease-in 0s 1 normal none running fade=
+in; }
+
+@keyframes fadein {=20
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+.line-numbers .line-numbers-rows { border-right: none !important; }
+
+.line-numbers-rows > span::before { color: rgb(204, 204, 204) !important; }
+
+.notion-desktop-drag-area { app-region: drag; }
+
+.notion-desktop-drag-area [role=3D"button"], .notion-desktop-drag-area [rol=
+e=3D"link"], .notion-desktop-drag-area input { app-region: no-drag; }
+
+.notion-mobile * { -webkit-tap-highlight-color: transparent; }
+
+.notion-subpixel-antialiasing-off * { -webkit-font-smoothing: antialiased; =
+}
+
+#notion-app, body.notion-body, html.notion-html { background-color: initial=
+; height: 100vh; overflow: hidden; position: relative; }
+
+.notion-app-inner { height: 100%; }
+
+html.notion-mobile:not(.notion-front-page) div:not([contenteditable]) { use=
+r-select: none; }
+
+html.notion-mobile:not(.notion-front-page) body:not(.notion-disable-webkit-=
+user-select) [contenteditable] { user-select: text; }
+
+html.notion-front-page, html.notion-front-page #notion-app, html.notion-fro=
+nt-page body { background: rgb(255, 254, 252); overflow: initial; }
+
+html.notion-front-page body.disable-scroll { overflow: hidden; }
+
+html.notion-front-page .notion-app-inner { height: auto; }
+
+:root { --full-viewport-height: 100vh; }
+
+[contenteditable]:empty::after { content: attr(placeholder); }
+
+[contenteditable] .empty-content-editable-selection-target::before { conten=
+t: attr(placeholder); left: 0px; position: absolute; width: max-content; }
+
+.form-question-title .pseudoAfter[contenteditable]:empty::before { content:=
+ attr(placeholder); }
+
+.form-question-title .pseudoAfter[contenteditable]:empty::after { content: =
+var(--pseudoAfter--content); }
+
+#intercom-container { z-index: 1000 !important; }
+
+.token.operator.operator { background: rgba(0, 0, 0, 0); }
+
+#box-app-container > div { align-items: center; background: rgba(255, 255, =
+255, 0.5); display: flex; height: 100vh; justify-content: center; position:=
+ absolute; top: 0px; width: 100vw; z-index: 1000; }
+
+#box-app-container .be-app-element { background: rgb(255, 255, 255); box-sh=
+adow: rgba(0, 0, 0, 0.25) 0px 1px 4px; height: calc(100% - 150px); max-heig=
+ht: 620px; max-width: 1150px; width: calc(100% - 150px); }
+
+@keyframes snackbar-slide-in-top {=20
+  0% { opacity: 0; transform: translateY(-50px); }
+  100% { opacity: 1; transform: translateY(0px); }
+}
+
+@keyframes snackbar-slide-in-bottom {=20
+  0% { opacity: 0; transform: translateY(50px); }
+  100% { opacity: 1; transform: translateY(0px); }
+}
+
+.loading-spinner { animation: 1s linear 0s infinite normal none running rot=
+ate; display: block; height: 1em; opacity: 0.5; pointer-events: none; trans=
+form-origin: center center; width: 1em; }
+
+@-webkit-keyframes rotate {=20
+  0% { transform: rotate(0deg) translateZ(0px); }
+  100% { transform: rotate(1turn) translateZ(0px); }
+}
+
+@keyframes rotate {=20
+  0% { transform: rotate(0deg) translateZ(0px); }
+  100% { transform: rotate(1turn) translateZ(0px); }
+}
+
+.loading-dots { align-items: center; display: flex; gap: 2px; height: 16px;=
+ justify-content: center; width: 16px; }
+
+.loading-dot { animation-direction: alternate; animation-duration: 0.5s; an=
+imation-iteration-count: infinite; animation-name: dotdance; animation-timi=
+ng-function: cubic-bezier(0.11, 0, 0.5, 0); background-color: rgb(167, 130,=
+ 195); border-radius: 100%; height: 4px; opacity: 0.6; width: 4px; }
+
+.loading-dots .loading-dot:first-child { animation-delay: 0.2s; }
+
+.loading-dots .loading-dot:nth-child(2) { animation-delay: 0.4s; }
+
+.loading-dots .loading-dot:nth-child(3) { animation-delay: 0.6s; }
+
+@keyframes dotdance {=20
+  0% { opacity: 0.6; transform: translateY(0px); }
+  100% { opacity: 0.9; transform: translateY(2px); }
+}
+
+.sync-spinner { animation: 2.5s linear 0s infinite normal none running rota=
+te; display: block; pointer-events: none; transform-origin: center center; =
+}
+
+.notion-shimmer { overflow: hidden; position: relative; z-index: 0; }
+
+.notion-shimmer::before { animation: 1s linear 0s infinite normal none runn=
+ing shimmer; content: ""; height: 100%; position: absolute; width: 100%; z-=
+index: 1; }
+
+.notion-light-theme .notion-shimmer::before { background: linear-gradient(9=
+0deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.03) 50%, rgba(0, 0, 0, 0)); }
+
+.notion-dark-theme .notion-shimmer::before { background: linear-gradient(90=
+deg, rgba(86, 86, 86, 0), rgba(86, 86, 86, 0.1) 50%, rgba(86, 86, 86, 0)); =
+}
+
+@keyframes shimmer {=20
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(100%); }
+}
+
+@keyframes shimmer-calendar-transition {=20
+  0% { opacity: 0.4; }
+  100% { opacity: 1; }
+}
+
+.notion-shimmer-calendar-transition { animation-duration: 0.7s; animation-i=
+teration-count: 1; animation-name: shimmer-calendar-transition; animation-t=
+iming-function: ease-in-out; }
+
+@keyframes text-shimmer-fade-in {=20
+  0% { opacity: 0.1; }
+  25% { opacity: 0.4; }
+  30% { opacity: 0.4; }
+  55% { opacity: 0.1; }
+  100% { opacity: 0.1; }
+}
+
+.notion-shimmer-text { animation-duration: 3s; animation-iteration-count: i=
+nfinite; animation-name: text-shimmer-fade-in; animation-timing-function: e=
+ase-in-out; opacity: 0.1; }
+
+.animation-delay-1 { animation-delay: 0s; }
+
+.animation-delay-2 { animation-delay: 0.2s; }
+
+.animation-delay-3 { animation-delay: 0.4s; }
+
+.animation-delay-4 { animation-delay: 0.6s; }
+
+.animation-delay-5 { animation-delay: 0.8s; }
+
+.animation-delay-6 { animation-delay: 1s; }
+
+.animation-delay-7 { animation-delay: 1.2s; }
+
+@keyframes shimmer-timeline-transition {=20
+  0% { opacity: 0.5; }
+  100% { opacity: 1; }
+}
+
+.notion-shimmer-timeline-transition { animation-duration: 0.5s; animation-i=
+teration-count: 1; animation-name: shimmer-timeline-transition; animation-t=
+iming-function: ease-in-out; }
+
+@keyframes shimmer-timeline-fade-in {=20
+  0% { opacity: 0.15; }
+  40% { opacity: 0.5; }
+  50% { opacity: 0.5; }
+  60% { opacity: 0.5; }
+  100% { opacity: 0.15; }
+}
+
+.notion-shimmer-timeline { animation-duration: 2.5s; animation-iteration-co=
+unt: infinite; animation-name: shimmer-timeline-fade-in; animation-timing-f=
+unction: ease-in-out; opacity: 0.15; }
+
+.column-chart-loading svg line { stroke-dasharray: 300, 300; stroke-dashoff=
+set: -10; animation: 2s cubic-bezier(0.45, 0, 0.55, 1) 0.2s infinite revers=
+e none running grow; opacity: 0.3; }
+
+@keyframes grow {=20
+  0% { stroke-dasharray: 300, 300; stroke-dashoffset: -10; opacity: 0.3; }
+  50% { stroke-dasharray: 300, 300; stroke-dashoffset: 0; opacity: 1; }
+  100% { stroke-dasharray: 300, 300; stroke-dashoffset: -10; opacity: 0.3; =
+}
+}
+
+.column-chart-loading svg line.column-loader-1 { animation-delay: 0s; }
+
+.column-chart-loading svg line.column-loader-2 { animation-delay: 0.1s; }
+
+.column-chart-loading svg line.column-loader-3 { animation-delay: 0.2s; }
+
+.column-chart-loading svg line.column-loader-4 { animation-delay: 0.3s; }
+
+.column-chart-loading svg line.column-loader-5 { animation-delay: 0.4s; }
+
+.line-chart-loading svg { stroke-dasharray: 0, 300; stroke-dashoffset: -150=
+; animation: 2.5s linear 0s infinite reverse none running dash; opacity: 0.=
+3; }
+
+@keyframes dash {=20
+  0% { stroke-dasharray: 0, 300; stroke-dashoffset: -150; opacity: 0.3; }
+  50% { stroke-dasharray: 300, 300; stroke-dashoffset: 0; opacity: 1; }
+  100% { stroke-dasharray: 0, 300; stroke-dashoffset: 0; opacity: 0.3; }
+}
+
+.donut-chart-loading svg circle.outer-loader { animation: 2s cubic-bezier(0=
+.45, 0, 0.55, 1) 0s infinite reverse none running pulse-outer; opacity: 0.3=
+; }
+
+.donut-chart-loading svg circle.inner-loader { animation: 2s cubic-bezier(0=
+.45, 0, 0.55, 1) 0.5s infinite reverse none running pulse-inner; opacity: 0=
+.3; }
+
+@keyframes pulse-outer {=20
+  0% { r: 24; opacity: 0.3; }
+  50% { r: 25; opacity: 0.8; }
+  100% { r: 24; opacity: 0.3; }
+}
+
+@keyframes pulse-inner {=20
+  0% { r: 12; opacity: 0.3; }
+  50% { r: 14; opacity: 0.8; }
+  100% { r: 12; opacity: 0.3; }
+}
+
+.highcharts-legend-item > span { max-width: 200px; }
+
+:root { --safe-area-inset-top: env(safe-area-inset-top,0px); --safe-area-in=
+set-right: env(safe-area-inset-right,0px); --safe-area-inset-left: env(safe=
+-area-inset-left,0px); --safe-area-inset-bottom: env(safe-area-inset-bottom=
+,0px); }
+
+input[type=3D"range"] { appearance: none; background: rgba(0, 0, 0, 0); }
+
+input[type=3D"range"]::-webkit-slider-thumb { appearance: none; background:=
+ var(--inputRangeThumb--background); border: .5px solid var(--inputRangeThu=
+mb--borderColor); border-radius: 50%; box-shadow: rgba(0, 0, 0, 0.25) 0px 1=
+px 4px; cursor: pointer; height: 14px; margin-top: -4px; width: 14px; }
+
+input[type=3D"range"]::-webkit-slider-runnable-track { appearance: none; ba=
+ckground: var(--inputRangeTrack--color); border-radius: 10px; cursor: point=
+er; height: 6px; width: 100%; }
+
+.notion-quote { position: relative; }
+
+.notion-quote::before { content: "=E2=80=9C"; left: -0.5em; opacity: 0.6; p=
+osition: absolute; }
+
+.notion-quote::after { content: "=E2=80=9D"; margin-left: 0.1em; opacity: 0=
+.6; }
+
+@media only screen and (max-width: 1020px) {
+  .br-desktop { display: none; }
+}
+
+.pretty-json-container .variable-value > * > * { cursor: pointer !important=
+; }
+
+.editor-force-select { user-select: auto !important; }
+
+.width-max-content { width: -webkit-max-content; }
+
+.hidden { display: none !important; }
+
+input.input-hide-arrows::-webkit-inner-spin-button, input.input-hide-arrows=
+::-webkit-outer-spin-button { appearance: none; margin: 0px; }
+
+input[type=3D"number"].input-hide-arrows { }
+
+@keyframes leftOrRight {=20
+  0% { left: -50%; }
+  100% { left: 250%; }
+}
+
+.pseudoAfter::after { background: var(--pseudoAfter--background); border: v=
+ar(--pseudoAfter--border); color: var(--pseudoAfter--color); content: var(-=
+-pseudoAfter--content); display: var(--pseudoAfter--display); font-family: =
+var(--pseudoAfter--fontFamily); font-size: var(--pseudoAfter--fontSize); fo=
+nt-weight: var(--pseudoAfter--fontWeight); height: var(--pseudoAfter--heigh=
+t); width: var(--pseudoAfter--width); }
+
+.pseudoBefore::before { background: var(--pseudoBefore--background); border=
+: var(--pseudoBefore--border); color: var(--pseudoBefore--color); content: =
+var(--pseudoBefore--content); font-family: var(--pseudoBefore--fontFamily);=
+ font-size: var(--pseudoBefore--fontSize); font-weight: var(--pseudoBefore-=
+-fontWeight); height: var(--pseudoBefore--height); width: var(--pseudoBefor=
+e--width); display: var(--pseudoBefore--display) !important; }
+
+.pseudoHover:hover { background: var(--pseudoHover--background); }
+
+.pseudoActive:active { background: var(--pseudoActive--background); }
+
+.pseudoSelection ::selection, .pseudoSelection::selection { -webkit-text-fi=
+ll-color: var(--pseudoSelection--WebkitTextFillColor); background: var(--ps=
+eudoSelection--background); color: var(--pseudoSelection--color); text-shad=
+ow: var(--pseudoSelection--textShadow); }
+
+.whenContentEditable[contenteditable=3D"true"] { -webkit-user-modify: var(-=
+-whenContentEditable--WebkitUserModify); caret-color: var(--whenContentEdit=
+able--caretColor); }
+
+[data-content-editable-selecting=3D"true"] .whenRootSelecting { display: va=
+r(--whenRootSelecting--display) !important; }
+
+.whenFocusedEditable[contenteditable=3D"true"]:focus, [contenteditable=3D"t=
+rue"]:focus-within .whenFocusedEditable { -webkit-user-modify: var(--whenFo=
+cusedEditable--WebkitUserModify) !important; user-select: var(--whenFocused=
+Editable--userSelect) !important; }
+
+[data-content-editable-composing=3D"true"] .pseudoAfterWhenComposing::after=
+ { display: var(--pseudoAfterWhenComposing--display) !important; }
+
+.autolayout-fill-width { width: 100%; }
+
+.autolayout-fill-height { height: 100%; }
+
+.autolayout-col > .autolayout-fill-width { align-self: stretch; width: unse=
+t; }
+
+.autolayout-col > .autolayout-fill-height { flex: 1 0 0px; height: unset; }
+
+.autolayout-row > .autolayout-fill-width { flex: 1 1 0px; width: unset; }
+
+.autolayout-row > .autolayout-fill-height { align-self: stretch; height: un=
+set; }
+
+.autolayout-col { display: flex; flex-direction: column; position: relative=
+; }
+
+.autolayout-col.autolayout-start, .autolayout-col.autolayout-top-left { ali=
+gn-items: flex-start; }
+
+.autolayout-col.autolayout-top-center { align-items: center; }
+
+.autolayout-col.autolayout-end, .autolayout-col.autolayout-top-right { alig=
+n-items: flex-end; }
+
+.autolayout-col.autolayout-center-left { align-items: flex-start; justify-c=
+ontent: center; }
+
+.autolayout-col.autolayout-center { align-items: center; justify-content: c=
+enter; }
+
+.autolayout-col.autolayout-center-right { align-items: flex-end; justify-co=
+ntent: center; }
+
+.autolayout-col.autolayout-bottom-left { align-items: flex-start; justify-c=
+ontent: flex-end; }
+
+.autolayout-col.autolayout-bottom-center { align-items: center; justify-con=
+tent: flex-end; }
+
+.autolayout-col.autolayout-bottom-right { align-items: flex-end; justify-co=
+ntent: flex-end; }
+
+.autolayout-col.autolayout-space { justify-content: space-between; }
+
+.autolayout-row { display: flex; flex-direction: row; position: relative; }
+
+.autolayout-row.autolayout-start, .autolayout-row.autolayout-top-left { ali=
+gn-items: flex-start; }
+
+.autolayout-row.autolayout-top-center { align-items: flex-start; justify-co=
+ntent: center; }
+
+.autolayout-row.autolayout-top-right { align-items: flex-start; justify-con=
+tent: flex-end; }
+
+.autolayout-row.autolayout-center-left { align-items: center; }
+
+.autolayout-row.autolayout-center { align-items: center; justify-content: c=
+enter; }
+
+.autolayout-row.autolayout-center-right { align-items: center; justify-cont=
+ent: flex-end; }
+
+.autolayout-row.autolayout-bottom-left, .autolayout-row.autolayout-end { al=
+ign-items: flex-end; }
+
+.autolayout-row.autolayout-bottom-center { align-items: flex-end; justify-c=
+ontent: center; }
+
+.autolayout-row.autolayout-bottom-right { align-items: flex-end; justify-co=
+ntent: flex-end; }
+
+.autolayout-row.autolayout-space { justify-content: space-between; }
+
+.automation-list-item { min-width: 50px; padding-bottom: 8px; }
+
+.automation-list-item .automation-list-item-base-step { border-radius: 10px=
+; width: 100%; }
+
+.automation-list-item-drag-handle, .automation-list-item-icon { left: 0px; =
+position: absolute; top: 0px; transition: opacity 0.1s; }
+
+.automation-list-item-icon { opacity: 1; }
+
+.automation-list-item-drag-handle { cursor: grab; opacity: 0; }
+
+.automation-list-item-base-step:not(.automation-list-item-base-step--drag-d=
+isabled):hover .automation-list-item-icon { opacity: 0; }
+
+.automation-list-item-base-step:not(.automation-list-item-base-step--drag-d=
+isabled):hover .automation-list-item-drag-handle { opacity: 1; }
+
+.automation-list-item-drag-handle:active { cursor: grabbing; }
+
+@keyframes selectedOutlineScale {=20
+  0%, 100% { outline: rgb(255, 205, 56) solid 2px; }
+  50% { outline-width: 5px; }
+}
+
+.in-page-find-selected-highlight-match { animation: 0.15s ease-in-out 0s 1 =
+normal none running selectedOutlineScale; }
+
+.temporary-dictation-annotation { opacity: 0.3; }
+
+.marketplace-checkout-email-element { pointer-events: none; }
+
+@keyframes slideInFromLeft {=20
+  0% { opacity: 0; transform: translateX(-4px); }
+  100% { opacity: 1; transform: translateX(0px); }
+}
+
+@keyframes template-preview-column-focus-in {=20
+  0% { filter: blur(6px); opacity: 0; }
+  100% { filter: blur(0px); opacity: 1; }
+}
+
+@keyframes template-preview-column-focus-out {=20
+  0% { opacity: 1; }
+  100% { filter: blur(6px); min-width: 0px; opacity: 0; }
+}
+
+.quickActionContainer:empty { visibility: hidden; }
+
+.popup-origin-wrapper:has(svg) > * { transform: translateZ(0px); }
+
+@property --shimmer-text-faded-color { syntax: "<color>"; inherits: false; =
+initial-value: #0f0; }
+
+.layout { --content-width: minmax(auto,708px); --margin-width: minmax(96px,=
+1fr); display: grid; grid-template-columns: [full-start] var(--margin-left-=
+width,var(--margin-width)) [content-start] var(--content-width) [content-en=
+d] var(--margin-right-width,var(--margin-width)) [full-end]; width: 100%; }
+
+.layout.layout-layout-editor-narrow { --margin-width: minmax(24px,1fr); }
+
+.layout.layout-layout-editor { --margin-width: minmax(40px,1fr); }
+
+.layout.layout-layout-editor-wide { --content-width: 1fr; --margin-width: 4=
+0px; }
+
+.layout.layout-wide { --content-width: 1fr; --margin-width: 96px; }
+
+.layout.layout-wide-right-margin-expanded { --content-width: 1fr; --margin-=
+left-width: 96px; --margin-right-width: 468px; }
+
+.layout.layout-side-peek { --content-width: 1fr; --margin-width: 76px; }
+
+.layout.layout-center-peek { --content-width: 1fr; --margin-width: 126px; t=
+ransition: grid-template-columns 0.2s ease-in-out; }
+
+.layout.layout-center-peek-with-layout-panel { --content-width: 1fr; --marg=
+in-width: 76px; transition: grid-template-columns 0.2s ease-in-out; }
+
+.layout.layout-phone { --content-width: 1fr; --margin-width: 24px; }
+
+.layout.layout-tablet {
+  --content-width: 1fr; --margin-width: 96px;
+  @media (min-width: 900px) {
+  --content-width: 708px; --margin-width: 1fr;
+}
+}
+
+.layout.layout-home-redesign-desktop { --content-width: minmax(auto,756px);=
+ --margin-width: minmax(96px,1fr); }
+
+.layout.layout-home { --content-width: minmax(auto,900px); --margin-width: =
+minmax(56px,1fr); }
+
+.layout.layout-marketplace {
+  --content-width: minmax(auto,1248px); --margin-width: minmax(96px,1fr);
+  @media (max-width: 1123px) {
+  --margin-width: minmax(64px,1fr);
+}
+}
+
+.layout.layout-marketplace-mobile { --content-width: minmax(auto,1020px); -=
+-margin-width: minmax(20px,1fr); }
+
+.layout.layout-form, .layout.layout-form-viewer { --content-width: minmax(a=
+uto,600px); --margin-right-width: minmax(40px,1fr); --margin-left-width: mi=
+nmax(40px,1fr); }
+
+.layout.layout-form-viewer-embed { --content-width: auto; --margin-right-wi=
+dth: 20px; --margin-left-width: 20px; }
+
+.layout.layout-chat { --content-width: minmax(auto,100%); --margin-left-wid=
+th: minmax(auto,1fr); --margin-right-width: 0; }
+
+.layout.layout-home-phone { --content-width: 1fr; --margin-width: 0px; }
+
+.home-content::before { background: rgba(0, 0, 0, 0.02); content: " "; filt=
+er: blur(24px); position: absolute; }
+
+.layout.layout-template-preview { --content-width: minmax(auto,900px); --ma=
+rgin-width: minmax(20px,1fr); }
+
+.layout.layout-create-post { --margin-width: 0; }
+
+.layout-content { gap: inherit; grid-column: content; }
+
+.layout-full { gap: inherit; grid-column: full; }
+
+.layout-margin-left { gap: inherit; grid-column: full-start / content-start=
+; }
+
+.layout-margin-right { gap: inherit; grid-column: content-end / full-end; }
+
+.layout-nested-grid { align-items: self-start; display: grid; gap: inherit;=
+ grid-column: full; grid-template-columns: inherit; }
+
+.layout-margin-scrollable { gap: inherit; overflow-x: scroll; overscroll-be=
+havior-x: contain; scroll-snap-type: x; scrollbar-width: none; }
+
+.layout-content { min-width: 0px; }
+
+.layout-margin-scrollable > * { min-width: auto; }
+
+.layout-column { --min-column-width: 0; display: grid; gap: inherit; grid-c=
+olumn: content; grid-template-columns: repeat(auto-fit,minmax(var(--min-col=
+umn-width),1fr)); }
+
+.layout-content-with-divider { border-bottom: 1px solid rgba(55, 53, 47, 0.=
+09); }
+
+body.dark .layout-content-with-divider { border-bottom: 1px solid rgba(255,=
+ 255, 255, 0.094); }
+
+.layout-editor { padding-top: 5px; }
+
+:root { --m-top-gap: 2px; --m-bottom-gap: 0; --m-gap: 1px; }
+
+.m-default .notion-list-item-block { margin-bottom: var(--m-gap); margin-to=
+p: var(--m-gap); }
+
+.m-default .notion-list-item-block.start-of-content { margin-top: var(--m-t=
+op-gap); }
+
+.m-default .notion-list-item-block.end-of-content { margin-bottom: var(--m-=
+bottom-gap); }
+
+.m-content-reskin .notion-header-block { --font-size: 28px; --line-height: =
+40px; margin-bottom: 2px; margin-top: 22px; }
+
+.m-content-reskin .notion-header-block h2 { font-size: var(--font-size); fo=
+nt-weight: 600; line-height: var(--line-height); margin: 0px; }
+
+.m-content-reskin.m-smalltext .notion-header-block { --font-size: 24px; --l=
+ine-height: 36px; margin-bottom: 3px; margin-top: 21px; }
+
+.m-content-reskin.m-mobile .notion-header-block { --font-size: 22px; --line=
+-height: 32px; font-weight: 700; margin-bottom: 4px; margin-top: 28px; }
+
+.m-content-reskin.m-serif .notion-header-block { --font-size: 29px; margin-=
+bottom: 0px; margin-top: 24px; }
+
+.m-content-reskin.m-mono .notion-header-block { --font-size: 26px; margin-b=
+ottom: 2px; margin-top: 22px; }
+
+.m-content-reskin.m-serif.m-smalltext .notion-header-block { --font-size: 2=
+5px; margin-bottom: 1px; margin-top: 23px; }
+
+.m-content-reskin.m-mono.m-smalltext .notion-header-block { --font-size: 23=
+px; margin-bottom: 3px; margin-top: 21px; }
+
+.m-content-reskin.m-serif.m-mobile .notion-header-block { --font-size: 23px=
+; margin-bottom: 2px; margin-top: 30px; }
+
+.m-content-reskin.m-mono.m-mobile .notion-header-block { --font-size: 21px;=
+ margin-bottom: 4px; margin-top: 28px; }
+
+.m-content-reskin .notion-sub_header-block { --font-size: 23px; --line-heig=
+ht: 32px; margin-bottom: 4px; margin-top: 28px; }
+
+.m-content-reskin .notion-sub_header-block h3 { font-size: var(--font-size)=
+; font-weight: 600; line-height: var(--line-height); margin: 0px; }
+
+.m-content-reskin.m-smalltext .notion-sub_header-block { --font-size: 20px;=
+ --line-height: 28px; margin-bottom: 1px; margin-top: 19px; }
+
+.m-content-reskin.m-mobile .notion-sub_header-block { --font-size: 20px; --=
+line-height: 28px; font-weight: 700; margin-bottom: 5px; margin-top: 23px; =
+}
+
+.m-content-reskin.m-serif .notion-sub_header-block { --font-size: 24px; mar=
+gin-bottom: 2px; margin-top: 30px; }
+
+.m-content-reskin.m-mono .notion-sub_header-block { --font-size: 22px; marg=
+in-bottom: 4px; margin-top: 28px; }
+
+.m-content-reskin.m-serif.m-smalltext .notion-sub_header-block { --font-siz=
+e: 21px; margin-bottom: 3px; margin-top: 21px; }
+
+.m-content-reskin.m-mono.m-smalltext .notion-sub_header-block { --font-size=
+: 19px; margin-bottom: 1px; margin-top: 19px; }
+
+.m-content-reskin.m-serif.m-mobile .notion-sub_header-block { --font-size: =
+21px; margin-bottom: 3px; margin-top: 25px; }
+
+.m-content-reskin.m-mono.m-mobile .notion-sub_header-block { --font-size: 2=
+0px; margin-bottom: 5px; margin-top: 23px; }
+
+.m-content-reskin .notion-sub_sub_header-block { --font-size: 18px; --line-=
+height: 24px; margin-bottom: 6px; margin-top: 26px; }
+
+.m-content-reskin .notion-sub_sub_header-block h4 { font-size: var(--font-s=
+ize); font-weight: 600; line-height: var(--line-height); margin: 0px; }
+
+.m-content-reskin.m-smalltext .notion-sub_sub_header-block { --font-size: 1=
+6px; --line-height: 24px; margin-bottom: 2px; margin-top: 18px; }
+
+.m-content-reskin.m-serif .notion-sub_sub_header-block { --font-size: 19px;=
+ margin-bottom: 5px; margin-top: 27px; }
+
+.m-content-reskin.m-mono .notion-sub_sub_header-block { --font-size: 17px; =
+margin-bottom: 6px; margin-top: 26px; }
+
+.m-content-reskin.m-serif.m-smalltext .notion-sub_sub_header-block { --font=
+-size: 17px; margin-bottom: 0px; margin-top: 20px; }
+
+.m-content-reskin.m-mono.m-smalltext .notion-sub_sub_header-block { --font-=
+size: 16px; margin-bottom: 2px; margin-top: 18px; }
+
+.m-content-reskin .notion-text-block { margin-bottom: 6px; margin-top: 18px=
+; }
+
+.m-content-reskin.m-smalltext .notion-text-block { margin-bottom: 3px; marg=
+in-top: 13px; }
+
+.m-content-reskin.m-serif .notion-text-block { margin-bottom: 4px; margin-t=
+op: 20px; }
+
+.m-content-reskin.m-serif.m-smalltext .notion-text-block { margin-bottom: 2=
+px; margin-top: 14px; }
+
+.m-content-reskin .notion-synthetic-group-block:not(:empty) { margin-bottom=
+: 6px; margin-top: 2px; }
+
+.m-content-reskin.m-smalltext .notion-synthetic-group-block:not(:empty) { m=
+argin-bottom: 7px; margin-top: 1px; }
+
+.m-content-reskin.m-serif .notion-synthetic-group-block:not(:empty) { margi=
+n-bottom: 4px; margin-top: 4px; }
+
+.m-content-reskin.m-serif.m-smalltext .notion-synthetic-group-block:not(:em=
+pty) { margin-bottom: 6px; margin-top: 2px; }
+
+.m-content-reskin .notion-synthetic-group-block:not(:empty).start-of-list {=
+ margin-top: 2px; }
+
+.m-content-reskin.m-smalltext .notion-synthetic-group-block:not(:empty).sta=
+rt-of-list { margin-top: 5px; }
+
+.m-content-reskin.m-serif .notion-synthetic-group-block:not(:empty).start-o=
+f-list { margin-top: 4px; }
+
+.m-content-reskin.m-serif.m-smalltext .notion-synthetic-group-block:not(:em=
+pty).start-of-list { margin-top: 6px; }
+
+.m-content-reskin .notion-synthetic-group-block:not(:empty).end-of-list { m=
+argin-bottom: 6px; }
+
+.m-content-reskin.m-smalltext .notion-synthetic-group-block:not(:empty).end=
+-of-list { margin-bottom: 7px; }
+
+.m-content-reskin.m-serif .notion-synthetic-group-block:not(:empty).end-of-=
+list { margin-bottom: 4px; }
+
+.m-content-reskin.m-serif.m-smalltext .notion-synthetic-group-block:not(:em=
+pty).end-of-list { margin-bottom: 6px; }
+
+.m-content-reskin .notion-callout-block { margin-bottom: 4px; margin-top: 2=
+0px; }
+
+.m-content-reskin.m-smalltext .notion-callout-block { margin-bottom: 4px; m=
+argin-top: 16px; }
+
+.m-content-reskin .notion-quote-block:not(:empty) { margin-bottom: 3px; mar=
+gin-top: 1px; }
+
+.m-content-reskin.m-smalltext .notion-quote-block:not(:empty) { margin-bott=
+om: 13px; margin-top: 7px; }
+
+.m-content-reskin .notion-column_list-block { margin-bottom: 16px; margin-t=
+op: 0px; }
+
+.m-content-reskin.m-smalltext .notion-column_list-block { margin-bottom: 12=
+px; }
+
+.m-content-reskin .notion-divider-block { margin-bottom: -4px; margin-top: =
+11px; }
+
+.m-content-reskin.m-smalltext .notion-divider-block { margin-top: 7px; }
+
+.m-content-reskin .notion-caption-type-block { margin-bottom: 12px; margin-=
+top: 20px; }
+
+.m-content-reskin.m-smalltext .notion-caption-type-block { margin-bottom: 8=
+px; margin-top: 16px; }
+
+.m-content-reskin .notion-caption-type-block.caption-visible { margin-botto=
+m: 4px; }
+
+.m-content-reskin.m-smalltext .notion-caption-type-block.caption-visible { =
+margin-bottom: 0px; }
+
+.m-content-reskin .notion-block-caption { margin-bottom: 3px; margin-top: 9=
+px; }
+
+.m-content-reskin .notion-selectable:not(:empty).end-of-content { margin-bo=
+ttom: 0px !important; }
+
+.m-content-reskin .notion-synthetic-group-block:not(:empty).start-of-conten=
+t { margin-top: 8px !important; }
+
+.m-content-reskin .notion-header-block .notion-list-item-box-left, .m-conte=
+nt-reskin .notion-sub_header-block .notion-list-item-box-left, .m-content-r=
+eskin .notion-sub_sub_header-block .notion-list-item-box-left { min-height:=
+ var(--line-height); }
+
+.tx-agate-10-regular { font-weight: 400; }
+
+.tx-agate-10-medium, .tx-agate-10-regular { font-size: 10px; letter-spacing=
+: 0.12px; line-height: 13px; }
+
+.tx-agate-10-medium { font-weight: 510; }
+
+.tx-body-12-med { font-size: 12px; font-weight: 500; }
+
+.tx-body-12-reg { font-size: 12px; font-weight: 400; line-height: 15px; }
+
+.tx-body-13-med { font-size: 13px; font-weight: 510; line-height: 16px; }
+
+.tx-body-13-reg { font-size: 13px; font-weight: 400; line-height: 16px; }
+
+.tx-body-13-semi { font-size: 13px; font-weight: 590; line-height: 16px; }
+
+.tx-body-14-med { font-size: 14px; font-weight: 510; line-height: 18px; }
+
+.tx-body-14-reg { font-size: 14px; font-weight: 400; line-height: 20px; }
+
+.tx-body-14-semi { font-size: 14px; font-weight: 590; line-height: 18px; }
+
+.tx-caption-12-reg { font-size: 12px; font-weight: 400; line-height: 16px; =
+}
+
+.tx-caption-12-med { font-size: 12px; font-weight: 500; line-height: 16px; =
+}
+
+.tx-caption-12-semi { font-size: 12px; font-weight: 590; line-height: 15px;=
+ }
+
+.tx-heading-17-med { font-size: 17px; font-weight: 500; line-height: 22px; =
+}
+
+.tx-heading-17-reg { font-size: 17px; font-weight: 400; line-height: 22px; =
+}
+
+.tx-heading-17-semi { font-size: 17px; font-weight: 590; line-height: 22px;=
+ }
+
+.tx-micro-10-med { font-size: 10px; font-weight: 500; line-height: 13px; }
+
+.tx-micro-10-reg { font-size: 10px; font-weight: 400; line-height: 13px; }
+
+.tx-micro-10-semi { font-size: 10px; font-weight: 590; line-height: 13px; }
+
+.tx-ios-callout-16-reg { font-size: 16px; font-weight: 400; line-height: 21=
+px; }
+
+.tx-ios-caption-12-reg { font-size: 12px; font-weight: 400; line-height: 16=
+px; }
+
+.tx-ios-subhead-15-med-c { font-size: 15px; font-weight: 510; letter-spacin=
+g: -0.24px; line-height: normal; }
+
+.tx-ios-title-3-bold { font-size: 20px; font-weight: 700; line-height: 25px=
+; }
+
+.tx-page-content-h2 { font-size: 24px; font-weight: 600; line-height: 31.2p=
+x; }
+
+.tx-page-content-h3 { font-size: 20px; font-weight: 600; line-height: 150%;=
+ }
+
+.tx-page-content-database { font-size: 32px; font-style: normal; font-weigh=
+t: 700; line-height: 120%; }
+
+.tx-page-content-text-block { font-size: 16px; font-style: normal; font-wei=
+ght: 400; line-height: 150%; }
+
+.tx-uititle-medium-20-semibold { font-size: 20px; font-style: normal; font-=
+weight: 590; line-height: 25px; }
+
+.tx-uititle-22-semibold { font-weight: 590; letter-spacing: -0.26px; }
+
+.tx-title-22-bold, .tx-uititle-22-semibold { font-size: 22px; font-style: n=
+ormal; line-height: 26px; }
+
+.tx-title-22-bold { font-weight: 700; letter-spacing: -0.264px; }
+
+.tx-title-22-semi { font-size: 22px; font-style: normal; font-weight: 590; =
+letter-spacing: -0.1px; line-height: 26px; }
+
+.tx-title-24-bold { font-size: 24px; font-style: normal; font-weight: 700; =
+letter-spacing: 0.208px; line-height: 28px; }
+
+.tx-title-26-bold { font-size: 26px; font-style: normal; font-weight: 700; =
+line-height: 32px; }
+
+.tx-uimini-10-semi { font-size: 10px; font-style: normal; font-weight: 590;=
+ letter-spacing: 0.12px; line-height: 13px; }
+
+.tx-uimedium-13-reg { font-weight: 400; }
+
+.tx-uimedium-13-med, .tx-uimedium-13-reg { font-size: 13px; font-style: nor=
+mal; line-height: 16px; }
+
+.tx-uimedium-13-med { font-weight: 510; }
+
+.tx-uimedium-13-semi { font-size: 13px; font-style: normal; font-weight: 59=
+0; line-height: 16px; }
+
+.tx-uiheader-17-reg { font-weight: 400; }
+
+.tx-uiheader-17-reg, .tx-uiheader-17-semi { font-size: 17px; font-style: no=
+rmal; line-height: 22px; }
+
+.tx-uiheader-17-semi { font-weight: 590; }
+
+.tx-uiheader-17-med { font-size: 17px; font-style: normal; font-weight: 510=
+; line-height: 22px; }
+
+.tx-uititle-26-bold { font-size: 26px; font-style: normal; font-weight: 700=
+; line-height: 32px; }
+
+.tx-uititle-30-semibold { font-size: 30px; font-style: normal; font-weight:=
+ 600; line-height: 36px; }
+
+.tx-uiregular-14-med { font-weight: 500; }
+
+.tx-uiregular-14-med, .tx-uiregular-14-reg { font-size: 14px; font-style: n=
+ormal; line-height: 18px; }
+
+.tx-uiregular-14-reg { font-weight: 400; }
+
+.tx-uiregular-14-semi { font-size: 14px; font-style: normal; font-weight: 5=
+90; line-height: 18px; }
+
+.tx-uismall-12-med { font-weight: 500; }
+
+.tx-uismall-12-med, .tx-uismall-12-reg { font-size: 12px; font-style: norma=
+l; line-height: 15px; }
+
+.tx-uismall-12-reg { font-weight: 400; }
+
+.tx-uismall-12-semi { font-size: 12px; font-style: normal; font-weight: 590=
+; line-height: 16px; }
+
+.radio-button:checked + span::after { opacity: 1; }
+
+.custom-radio-button::after { background: var(--icon-contrast,#fff); border=
+-radius: var(--Default,6px); content: ""; flex-shrink: 0; height: 6px; opac=
+ity: 0; transition: opacity 0.1s ease-out; width: 6px; }
+
+.rdt { position: relative; user-select: none; }
+
+.rdtPicker { background: rgb(255, 255, 255); box-shadow: rgba(0, 0, 0, 0.1)=
+ 0px 1px 3px; display: none; margin-top: 1px; position: absolute; width: 10=
+0%; }
+
+.rdtOpen .rdtPicker { display: block; }
+
+.rdtStatic .rdtPicker { box-shadow: none; position: static; }
+
+.rdtPicker .rdtTimeToggle { text-align: center; }
+
+.rdtPicker table { margin: 0px; width: 100%; }
+
+.rdtPicker td, .rdtPicker th { height: 28px; text-align: center; }
+
+.rdtPicker .rdtTimeToggle:hover, .rdtPicker td.rdtDay:hover, .rdtPicker td.=
+rdtHour:hover, .rdtPicker td.rdtMinute:hover, .rdtPicker td.rdtSecond:hover=
+, .rdtPicker td.rdtToday:hover { background: rgb(238, 238, 238); cursor: po=
+inter; }
+
+.rdtPicker td.rdtNew, .rdtPicker td.rdtOld { color: rgb(153, 153, 153); }
+
+.rdtPicker td.rdtToday { position: relative; }
+
+.rdtPicker td.rdtToday::before { border-bottom: 7px solid rgb(66, 139, 202)=
+; border-left: 7px solid rgba(0, 0, 0, 0); border-top-color: rgba(0, 0, 0, =
+0.2); bottom: 4px; content: ""; display: inline-block; position: absolute; =
+right: 4px; }
+
+.rdtPicker td.rdtActive, .rdtPicker td.rdtActive:hover { background-color: =
+rgb(66, 139, 202); color: rgb(255, 255, 255); text-shadow: rgba(0, 0, 0, 0.=
+25) 0px -1px 0px; }
+
+.rdtPicker td.rdtActive.rdtToday::before { border-bottom-color: rgb(255, 25=
+5, 255); }
+
+.rdtPicker td.rdtDisabled, .rdtPicker td.rdtDisabled:hover { background: no=
+ne; color: rgb(153, 153, 153); cursor: not-allowed; }
+
+.rdtPicker td span.rdtOld { color: rgb(153, 153, 153); }
+
+.rdtPicker td span.rdtDisabled, .rdtPicker td span.rdtDisabled:hover { back=
+ground: none; color: rgb(153, 153, 153); cursor: not-allowed; }
+
+.rdtPicker .dow { border-bottom: none; width: 14.2857%; }
+
+.rdtPicker th.rdtSwitch { width: 100px; }
+
+.rdtPicker th.rdtNext, .rdtPicker th.rdtPrev { font-size: 21px; vertical-al=
+ign: top; }
+
+.rdtPicker th.rdtDisabled, .rdtPicker th.rdtDisabled:hover { background: no=
+ne; color: rgb(153, 153, 153); cursor: not-allowed; }
+
+.rdtPicker thead tr:first-child th { cursor: pointer; }
+
+.rdtPicker thead tr:first-child th:hover { background: rgb(238, 238, 238); =
+}
+
+.rdtPicker tfoot { border-top: 1px solid rgb(249, 249, 249); }
+
+.rdtPicker button { background: none; border: none; cursor: pointer; }
+
+.rdtPicker button:hover { background-color: rgb(238, 238, 238); }
+
+.rdtPicker thead button { height: 100%; width: 100%; }
+
+td.rdtMonth, td.rdtYear { cursor: pointer; height: 50px; width: 25%; }
+
+td.rdtMonth:hover, td.rdtYear:hover { background: rgb(238, 238, 238); }
+
+.rdtCounters { display: inline-block; }
+
+.rdtCounters > div { float: left; }
+
+.rdtCounter { height: 100px; width: 40px; }
+
+.rdtCounterSeparator { line-height: 100px; }
+
+.rdtCounter .rdtBtn { cursor: pointer; height: 40%; line-height: 40px; }
+
+.rdtCounter .rdtBtn:hover { background: rgb(238, 238, 238); }
+
+.rdtCounter .rdtCount { font-size: 1.2em; height: 20%; }
+
+.rdtMilli { padding-left: 8px; vertical-align: middle; width: 48px; }
+
+.rdtMilli input { font-size: 1.2em; margin-top: 37px; width: 100%; }
+
+*, :focus { outline: 0px; }
+
+* { box-sizing: border-box; }
+
+:where(.z-indexes-relative) * { isolation: isolate; }
+
+foreignobject * { isolation: auto; }
+
+table > tr { vertical-align: top; }
+
+::-webkit-input-placeholder { color: inherit; opacity: 0.375; }
+
+::-webkit-contacts-auto-fill-button { pointer-events: none; position: absol=
+ute; right: 0px; visibility: hidden; display: none !important; }
+
+::selection { background: rgba(35, 131, 226, 0.28); }
+
+.notion-selectable::selection { background: rgba(0, 0, 0, 0); }
+
+#notion-app b { font-weight: 600; }
+
+[contenteditable] { -webkit-tap-highlight-color: transparent; }
+
+fieldset { border: none; margin: 0px; padding: 0px; }
+
+@keyframes pulse-ring {=20
+  0% { transform: scale(0.33); }
+  80%, 100% { opacity: 0; }
+}
+
+@keyframes pulse-dot {=20
+  0% { transform: scale(0.8); }
+  50% { transform: scale(1); }
+  100% { transform: scale(0.8); }
+}
+
+@keyframes bounce-left {=20
+  0% { transform: translateX(-200%); }
+  25% { transform: translateX(-199%); }
+  100% { transform: translateX(0px); }
+}
+
+@keyframes pulsing-button-border {=20
+  0% { border-color: rgb(35, 131, 226); }
+  50% { border-color: rgba(35, 131, 226, 0); }
+  100% { border-color: rgb(35, 131, 226); }
+}
+
+@keyframes pulsing-button {=20
+  0% { filter: brightness(1); }
+  50% { filter: brightness(1.15); }
+  100% { filter: brightness(1); }
+}
+
+@keyframes shake {=20
+  0% { margin-left: 0px; }
+  25% { margin-left: 0.2rem; }
+  75% { margin-left: -0.2rem; }
+  100% { margin-left: 0px; }
+}
+
+@keyframes fadeIn {=20
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@keyframes home-tile-slide-up {=20
+  0% { transform: translatey(calc((var(--depth) + 1)*24px)); }
+  100% { transform: translateY(0px); }
+}
+
+@keyframes slide-up-small {=20
+  0% { transform: translateY(5px); }
+  100% { transform: translateY(0px); }
+}
+
+.home-tile-fade-up-in { animation-delay: calc(.25s*var(--depth) + .5s); ani=
+mation-duration: 1.5s; animation-fill-mode: both; animation-name: home-tile=
+-slide-up, fadeIn; animation-timing-function: ease-in-out; }
+
+.slide-up-small { animation-duration: 0.75s; animation-fill-mode: both; ani=
+mation-name: slide-up-small; animation-timing-function: cubic-bezier(0.02, =
+1.2, 0.2, 0.92); }
+
+.front-fadein-slow { animation: 0.5s ease-in 0s 1 normal none running fadei=
+n; }
+
+.front-fadein-fast { animation: 0.15s ease-in 0s 1 normal none running fade=
+in; }
+
+.hide-scrollbar { scrollbar-width: none; }
+
+.hide-scrollbar::-webkit-scrollbar { display: none; height: 0px !important;=
+ width: 0px !important; }
+
+.notion-light-theme code[class*=3D"language-"], .notion-light-theme pre[cla=
+ss*=3D"language-"] { overflow-wrap: normal; background: none; color: rgb(0,=
+ 0, 0); font-family: Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monosp=
+ace; font-size: 1em; hyphens: none; line-height: 1.5; tab-size: 4; text-ali=
+gn: left; text-shadow: rgb(255, 255, 255) 0px 1px; white-space: pre; word-b=
+reak: normal; word-spacing: normal; }
+
+.notion-light-theme code[class*=3D"language-"] ::selection, .notion-light-t=
+heme code[class*=3D"language-"]::selection, .notion-light-theme pre[class*=
+=3D"language-"] ::selection, .notion-light-theme pre[class*=3D"language-"]:=
+:selection { background: rgb(179, 212, 252); text-shadow: none; }
+
+@media print {
+  .notion-light-theme code[class*=3D"language-"], .notion-light-theme pre[c=
+lass*=3D"language-"] { text-shadow: none; }
+}
+
+.notion-light-theme pre[class*=3D"language-"] { margin: 0.5em 0px; overflow=
+: auto; padding: 1em; }
+
+.notion-light-theme :not(pre) > code[class*=3D"language-"], .notion-light-t=
+heme pre[class*=3D"language-"] { background: rgb(245, 242, 240); }
+
+.notion-light-theme :not(pre) > code[class*=3D"language-"] { border-radius:=
+ 0.3em; padding: 0.1em; white-space: normal; }
+
+.notion-light-theme .token.cdata, .notion-light-theme .token.comment, .noti=
+on-light-theme .token.doctype, .notion-light-theme .token.prolog { color: r=
+gb(112, 128, 144); }
+
+.notion-light-theme .token.punctuation { color: rgb(153, 153, 153); }
+
+.notion-light-theme .token.namespace { opacity: 0.7; }
+
+.notion-light-theme .token.boolean, .notion-light-theme .token.constant, .n=
+otion-light-theme .token.deleted, .notion-light-theme .token.number, .notio=
+n-light-theme .token.property, .notion-light-theme .token.symbol, .notion-l=
+ight-theme .token.tag { color: rgb(153, 0, 85); }
+
+.notion-light-theme .token.attr-name, .notion-light-theme .token.builtin, .=
+notion-light-theme .token.char, .notion-light-theme .token.inserted, .notio=
+n-light-theme .token.selector, .notion-light-theme .token.string { color: r=
+gb(102, 153, 0); }
+
+.notion-light-theme .language-css .token.string, .notion-light-theme .style=
+ .token.string, .notion-light-theme .token.entity, .notion-light-theme .tok=
+en.operator, .notion-light-theme .token.url { background: rgba(255, 255, 25=
+5, 0.5); color: rgb(154, 110, 58); }
+
+.notion-light-theme .token.atrule, .notion-light-theme .token.attr-value, .=
+notion-light-theme .token.keyword { color: rgb(0, 119, 170); }
+
+.notion-light-theme .token.class-name, .notion-light-theme .token.function =
+{ color: rgb(221, 74, 104); }
+
+.notion-light-theme .token.important, .notion-light-theme .token.regex, .no=
+tion-light-theme .token.variable { color: rgb(238, 153, 0); }
+
+.notion-light-theme .token.bold, .notion-light-theme .token.important { fon=
+t-weight: 700; }
+
+.notion-light-theme .token.italic { font-style: italic; }
+
+.notion-light-theme .token.entity { cursor: help; }
+
+.notion-dark-theme code[class*=3D"language-"], .notion-dark-theme pre[class=
+*=3D"language-"] { overflow-wrap: normal; background: none; color: rgb(255,=
+ 255, 255); font-family: Consolas, Monaco, "Andale Mono", "Ubuntu Mono", mo=
+nospace; font-size: 1em; hyphens: none; line-height: 1.5; tab-size: 4; text=
+-align: left; text-shadow: rgb(0, 0, 0) 0px -0.1em 0.2em; white-space: pre;=
+ word-break: normal; word-spacing: normal; }
+
+@media print {
+  .notion-dark-theme code[class*=3D"language-"], .notion-dark-theme pre[cla=
+ss*=3D"language-"] { text-shadow: none; }
+}
+
+.notion-dark-theme :not(pre) > code[class*=3D"language-"], .notion-dark-the=
+me pre[class*=3D"language-"] { background: rgb(77, 64, 51); }
+
+.notion-dark-theme pre[class*=3D"language-"] { border: 0.3em solid rgb(122,=
+ 102, 82); border-radius: 0.5em; box-shadow: rgb(0, 0, 0) 1px 1px 0.5em ins=
+et; margin: 0.5em 0px; overflow: auto; padding: 1em; }
+
+.notion-dark-theme :not(pre) > code[class*=3D"language-"] { border: 0.13em =
+solid rgb(122, 102, 82); border-radius: 0.3em; box-shadow: rgb(0, 0, 0) 1px=
+ 1px 0.3em -0.1em inset; padding: 0.15em 0.2em 0.05em; white-space: normal;=
+ }
+
+.notion-dark-theme .token.cdata, .notion-dark-theme .token.comment, .notion=
+-dark-theme .token.doctype, .notion-dark-theme .token.prolog { color: rgb(1=
+53, 128, 102); }
+
+.notion-dark-theme .token.namespace, .notion-dark-theme .token.punctuation =
+{ opacity: 0.7; }
+
+.notion-dark-theme .token.boolean, .notion-dark-theme .token.constant, .not=
+ion-dark-theme .token.number, .notion-dark-theme .token.property, .notion-d=
+ark-theme .token.symbol, .notion-dark-theme .token.tag { color: rgb(209, 14=
+8, 158); }
+
+.notion-dark-theme .token.attr-name, .notion-dark-theme .token.builtin, .no=
+tion-dark-theme .token.char, .notion-dark-theme .token.inserted, .notion-da=
+rk-theme .token.selector, .notion-dark-theme .token.string { color: rgb(189=
+, 224, 82); }
+
+.notion-dark-theme .language-css .token.string, .notion-dark-theme .style .=
+token.string, .notion-dark-theme .token.entity, .notion-dark-theme .token.o=
+perator, .notion-dark-theme .token.url, .notion-dark-theme .token.variable =
+{ color: rgb(245, 184, 61); }
+
+.notion-dark-theme .token.atrule, .notion-dark-theme .token.attr-value, .no=
+tion-dark-theme .token.keyword { color: rgb(102, 162, 204); }
+
+.notion-dark-theme .token.important, .notion-dark-theme .token.regex { colo=
+r: rgb(238, 153, 0); }
+
+.notion-dark-theme .token.bold, .notion-dark-theme .token.important { font-=
+weight: 700; }
+
+.notion-dark-theme .token.italic { font-style: italic; }
+
+.notion-dark-theme .token.entity { cursor: help; }
+
+.notion-dark-theme .token.deleted { color: red; }
+
+.notion-dark-theme .token.class-name, .notion-dark-theme .token.function { =
+color: rgb(236, 236, 147); }
+
+.notion-gist-block .gist-data { display: flex; }
+
+.notion-gist-block .gist, .notion-gist-block .gist-data div, .notion-gist-b=
+lock .gist-file { display: flex; flex-direction: column; }
+------MultipartBoundary--Hn5MrnHNiylsz9lYg2Kp2Mz4SO6l99clHSO0eoxMZ9----
+Content-Type: text/html
+Content-ID: <frame-81B1FAC3FD285087618416AA7BA60344@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://aif.notion.so/aif-production.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"></head><body data-new-gr-c-s-check-loa=
+ded=3D"14.1218.0" data-gr-ext-installed=3D""></body><grammarly-desktop-inte=
+gration data-grammarly-shadow-root=3D"true"><template shadowmode=3D"open"><=
+div aria-label=3D"grammarly-integration" role=3D"group" tabindex=3D"-1" cla=
+ss=3D"grammarly-desktop-integration" data-content=3D"{&quot;mode&quot;:&quo=
+t;full&quot;,&quot;isActive&quot;:true,&quot;isUserDisabled&quot;:false}"><=
+/div></template></grammarly-desktop-integration></html>
+------MultipartBoundary--Hn5MrnHNiylsz9lYg2Kp2Mz4SO6l99clHSO0eoxMZ9------
